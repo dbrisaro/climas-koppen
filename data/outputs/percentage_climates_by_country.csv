@@ -1,0 +1,1581 @@
+Country,Climate_Class,Short_Name,Long_Name,Count,Percentage
+Northern Mariana Islands,0.0,nan,Missing Data,68,23.52941176470588
+Northern Mariana Islands,1.0,Af,"Tropical, rainforest",221,76.47058823529412
+Kuril Islands,0.0,nan,Missing Data,857,10.656553096244716
+Kuril Islands,26.0,Dfb,"Cold, no dry season, warm summer",2350,29.221586669982592
+Kuril Islands,27.0,Dfc,"Cold, no dry season, cold summer",4816,59.88560059686645
+Kuril Islands,29.0,ET,"Polar, tundra",19,0.23625963690624224
+France,0.0,nan,Missing Data,2532,0.2732269920643314
+France,7.0,BSk,"Arid, steppe, cold",3039,0.32793713620991427
+France,8.0,Csa,"Temperate, dry summer, hot summer",47987,5.178255793124435
+France,9.0,Csb,"Temperate, dry summer, warm summer",15259,1.646591892539349
+France,14.0,Cfa,"Temperate, no dry season, hot summer",47164,5.0894462297480745
+France,15.0,Cfb,"Temperate, no dry season, warm summer",763224,82.35916184490807
+France,18.0,Dsb,"Cold, dry summer, warm summer",722,0.077910698369055
+France,19.0,Dsc,"Cold, dry summer, cold summer",224,0.024171740214222047
+France,26.0,Dfb,"Cold, no dry season, warm summer",27120,2.926507118793312
+France,27.0,Dfc,"Cold, no dry season, cold summer",14543,1.569328651497461
+France,29.0,ET,"Polar, tundra",4888,0.5274619025317739
+Serbia,7.0,BSk,"Arid, steppe, cold",164,0.11501588481579925
+Serbia,8.0,Csa,"Temperate, dry summer, hot summer",503,0.35276213452650623
+Serbia,14.0,Cfa,"Temperate, no dry season, hot summer",86798,60.872858355132585
+Serbia,15.0,Cfb,"Temperate, no dry season, warm summer",8931,6.263456507865263
+Serbia,25.0,Dfa,"Cold, no dry season, hot summer",498,0.349255552672366
+Serbia,26.0,Dfb,"Cold, no dry season, warm summer",44571,31.258371964176764
+Serbia,27.0,Dfc,"Cold, no dry season, cold summer",1124,0.7882796008107217
+Uruguay,0.0,nan,Missing Data,1160,0.47027344779356617
+Uruguay,14.0,Cfa,"Temperate, no dry season, hot summer",239432,97.06768288974925
+Uruguay,15.0,Cfb,"Temperate, no dry season, warm summer",6073,2.462043662457179
+Guam,0.0,nan,Missing Data,59,8.5383502170767
+Guam,1.0,Af,"Tropical, rainforest",632,91.4616497829233
+Panama,0.0,nan,Missing Data,1422,1.6219915592563021
+Panama,1.0,Af,"Tropical, rainforest",15835,18.062050872590397
+Panama,2.0,Am,"Tropical, monsoon",56836,64.82947416448044
+Panama,3.0,Aw,"Tropical, savannah",10492,11.967605794456485
+Panama,12.0,Cwb,"Temperate, dry winter, warm summer",462,0.5269761606022585
+Panama,15.0,Cfb,"Temperate, no dry season, warm summer",2548,2.906353370594274
+Panama,16.0,Cfc,"Temperate, no dry season, cold summer",4,0.0045625641610585145
+Panama,29.0,ET,"Polar, tundra",71,0.08098551385878863
+Netherlands Antilles,0.0,nan,Missing Data,128,13.57370095440085
+Netherlands Antilles,3.0,Aw,"Tropical, savannah",380,40.29692470837752
+Netherlands Antilles,6.0,BSh,"Arid, steppe, hot",435,46.129374337221634
+Algeria,0.0,nan,Missing Data,529,0.017204124827145704
+Algeria,4.0,BWh,"Arid, desert, hot",2712196,88.2059707744523
+Algeria,5.0,BWk,"Arid, desert, cold",134489,4.373847909032133
+Algeria,6.0,BSh,"Arid, steppe, hot",11988,0.3898734374817064
+Algeria,7.0,BSk,"Arid, steppe, cold",126422,4.111493135911936
+Algeria,8.0,Csa,"Temperate, dry summer, hot summer",88768,2.8869106855502262
+Algeria,9.0,Csb,"Temperate, dry summer, warm summer",395,0.012846180163936773
+Algeria,18.0,Dsb,"Cold, dry summer, warm summer",57,0.001853752580618724
+Togo,0.0,nan,Missing Data,82,0.12131792694293618
+Togo,3.0,Aw,"Tropical, savannah",67509,99.87868207305706
+Ma'tan al-Sarra,4.0,BWh,"Arid, desert, hot",2325,100.0
+Switzerland,14.0,Cfa,"Temperate, no dry season, hot summer",507,0.7200374930765626
+Switzerland,15.0,Cfb,"Temperate, no dry season, warm summer",27218,38.65479385908852
+Switzerland,26.0,Dfb,"Cold, no dry season, warm summer",16303,23.153394969678896
+Switzerland,27.0,Dfc,"Cold, no dry season, cold summer",13675,19.421129620950676
+Switzerland,29.0,ET,"Polar, tundra",12691,18.02366040361865
+Switzerland,30.0,EF,"Polar, frost",19,0.02698365358669564
+Jersey,0.0,nan,Missing Data,28,12.669683257918551
+Jersey,15.0,Cfb,"Temperate, no dry season, warm summer",193,87.33031674208145
+Austria,14.0,Cfa,"Temperate, no dry season, hot summer",1325,0.9165046931957308
+Austria,15.0,Cfb,"Temperate, no dry season, warm summer",14810,10.244101514134924
+Austria,26.0,Dfb,"Cold, no dry season, warm summer",90274,62.44267522532181
+Austria,27.0,Dfc,"Cold, no dry season, cold summer",27824,19.245906855455104
+Austria,29.0,ET,"Polar, tundra",10338,7.150811711892427
+Portugal,0.0,nan,Missing Data,346,0.2582879836367844
+Portugal,7.0,BSk,"Arid, steppe, cold",484,0.36130457826648454
+Portugal,8.0,Csa,"Temperate, dry summer, hot summer",82015,61.223956583730846
+Portugal,9.0,Csb,"Temperate, dry summer, warm summer",51114,38.156450854365886
+Luxembourg,15.0,Cfb,"Temperate, no dry season, warm summer",4635,100.0
+Kazakhstan,5.0,BWk,"Arid, desert, cold",2186948,44.253853586478684
+Kazakhstan,7.0,BSk,"Arid, steppe, cold",2138367,43.27079570806332
+Kazakhstan,8.0,Csa,"Temperate, dry summer, hot summer",7059,0.14284196627764034
+Kazakhstan,17.0,Dsa,"Cold, dry summer, hot summer",32313,0.6538677512862151
+Kazakhstan,18.0,Dsb,"Cold, dry summer, warm summer",8550,0.17301300632863365
+Kazakhstan,19.0,Dsc,"Cold, dry summer, cold summer",2126,0.04302054402978657
+Kazakhstan,23.0,Dwc,"Cold, dry winter, cold summer",486,0.009834423517627597
+Kazakhstan,25.0,Dfa,"Cold, no dry season, hot summer",5480,0.11089020756501901
+Kazakhstan,26.0,Dfb,"Cold, no dry season, warm summer",445425,9.013370566541713
+Kazakhstan,27.0,Dfc,"Cold, no dry season, cold summer",85878,1.7377790593556024
+Kazakhstan,29.0,ET,"Polar, tundra",29030,0.5874348039438871
+Kazakhstan,30.0,EF,"Polar, frost",163,0.0032983766118792144
+Aruba,0.0,nan,Missing Data,36,15.254237288135593
+Aruba,4.0,BWh,"Arid, desert, hot",20,8.47457627118644
+Aruba,6.0,BSh,"Arid, steppe, hot",180,76.27118644067797
+Holy See,8.0,Csa,"Temperate, dry summer, hot summer",1,100.0
+Equatorial Guinea,0.0,nan,Missing Data,297,0.9417509591907918
+Equatorial Guinea,1.0,Af,"Tropical, rainforest",2588,8.206233947426831
+Equatorial Guinea,2.0,Am,"Tropical, monsoon",26052,82.60773060214986
+Equatorial Guinea,3.0,Aw,"Tropical, savannah",2279,7.226432444430351
+Equatorial Guinea,15.0,Cfb,"Temperate, no dry season, warm summer",321,1.017852046802169
+Jamaica,0.0,nan,Missing Data,336,2.4758676589787045
+Jamaica,1.0,Af,"Tropical, rainforest",4004,29.504089602829563
+Jamaica,2.0,Am,"Tropical, monsoon",5868,43.2392601871638
+Jamaica,3.0,Aw,"Tropical, savannah",3240,23.874438140151792
+Jamaica,6.0,BSh,"Arid, steppe, hot",8,0.05894922997568344
+Jamaica,15.0,Cfb,"Temperate, no dry season, warm summer",115,0.8473951809004496
+Estonia,0.0,nan,Missing Data,2409,2.354125338362764
+Estonia,26.0,Dfb,"Cold, no dry season, warm summer",99922,97.64587466163724
+Niger,3.0,Aw,"Tropical, savannah",172,0.01186819950443367
+Niger,4.0,BWh,"Arid, desert, hot",1353953,93.42432746294466
+Niger,6.0,BSh,"Arid, steppe, hot",95126,6.5638043375509145
+Belize,0.0,nan,Missing Data,534,1.977631286571365
+Belize,1.0,Af,"Tropical, rainforest",5401,20.00222205762536
+Belize,2.0,Am,"Tropical, monsoon",15854,58.71416932079106
+Belize,3.0,Aw,"Tropical, savannah",5211,19.298570476261016
+Belize,14.0,Cfa,"Temperate, no dry season, hot summer",2,0.007406858751203614
+Morocco,0.0,nan,Missing Data,1267,0.22873132644311056
+Morocco,4.0,BWh,"Arid, desert, hot",191664,34.60107415263799
+Morocco,5.0,BWk,"Arid, desert, cold",83097,15.00148937130478
+Morocco,6.0,BSh,"Arid, steppe, hot",72229,13.039490905808549
+Morocco,7.0,BSk,"Arid, steppe, cold",54914,9.913616464322788
+Morocco,8.0,Csa,"Temperate, dry summer, hot summer",129583,23.393600216635825
+Morocco,9.0,Csb,"Temperate, dry summer, warm summer",14387,2.597283025680372
+Morocco,18.0,Dsb,"Cold, dry summer, warm summer",6363,1.1487114681590467
+Morocco,19.0,Dsc,"Cold, dry summer, cold summer",421,0.07600306900753712
+Mexico,0.0,nan,Missing Data,14096,0.5621638522581072
+Mexico,1.0,Af,"Tropical, rainforest",32217,1.284849093941504
+Mexico,2.0,Am,"Tropical, monsoon",96187,3.836042455813746
+Mexico,3.0,Aw,"Tropical, savannah",499251,19.910674333407513
+Mexico,4.0,BWh,"Arid, desert, hot",511430,20.396386135099586
+Mexico,5.0,BWk,"Arid, desert, cold",17233,0.6872708332834819
+Mexico,6.0,BSh,"Arid, steppe, hot",506115,20.184418138877124
+Mexico,7.0,BSk,"Arid, steppe, cold",302734,12.07336206367096
+Mexico,8.0,Csa,"Temperate, dry summer, hot summer",11611,0.4630593422651024
+Mexico,9.0,Csb,"Temperate, dry summer, warm summer",24563,0.9795992269449408
+Mexico,11.0,Cwa,"Temperate, dry winter, hot summer",161464,6.439360403022349
+Mexico,12.0,Cwb,"Temperate, dry winter, warm summer",288372,11.500589841329093
+Mexico,13.0,Cwc,"Temperate, dry winter, cold summer",329,0.013120878787806278
+Mexico,14.0,Cfa,"Temperate, no dry season, hot summer",20575,0.820553437869648
+Mexico,15.0,Cfb,"Temperate, no dry season, warm summer",20672,0.824421903652071
+Mexico,16.0,Cfc,"Temperate, no dry season, cold summer",5,0.00019940545270222303
+Mexico,27.0,Dfc,"Cold, no dry season, cold summer",4,0.00015952436216177846
+Mexico,29.0,ET,"Polar, tundra",596,0.023769129962104986
+Romania,0.0,nan,Missing Data,71,0.017930787161556393
+Romania,5.0,BWk,"Arid, desert, cold",3,0.0007576388941502701
+Romania,7.0,BSk,"Arid, steppe, cold",39309,9.92734243005099
+Romania,14.0,Cfa,"Temperate, no dry season, hot summer",47531,12.003778092618829
+Romania,15.0,Cfb,"Temperate, no dry season, warm summer",1718,0.43387454005005466
+Romania,25.0,Dfa,"Cold, no dry season, hot summer",95438,24.102513593304494
+Romania,26.0,Dfb,"Cold, no dry season, warm summer",196065,49.515489927190906
+Romania,27.0,Dfc,"Cold, no dry season, cold summer",15485,3.9106794253056445
+Romania,29.0,ET,"Polar, tundra",347,0.08763356542338124
+Belarus,26.0,Dfb,"Cold, no dry season, warm summer",405524,100.0
+Ecuador,0.0,nan,Missing Data,1818,0.6082566321051099
+Ecuador,1.0,Af,"Tropical, rainforest",117367,39.268017678922135
+Ecuador,2.0,Am,"Tropical, monsoon",17602,5.889182199292709
+Ecuador,3.0,Aw,"Tropical, savannah",62672,20.968459651975497
+Ecuador,4.0,BWh,"Arid, desert, hot",1846,0.617624721048423
+Ecuador,5.0,BWk,"Arid, desert, cold",6,0.002007447630709934
+Ecuador,6.0,BSh,"Arid, steppe, hot",13909,4.653598182590745
+Ecuador,7.0,BSk,"Arid, steppe, cold",263,0.08799312114611876
+Ecuador,9.0,Csb,"Temperate, dry summer, warm summer",11131,3.7241499295720457
+Ecuador,10.0,Csc,"Temperate, dry summer, cold summer",37,0.012379260389377925
+Ecuador,12.0,Cwb,"Temperate, dry winter, warm summer",4434,1.4835037990946411
+Ecuador,13.0,Cwc,"Temperate, dry winter, cold summer",31,0.010371812758667992
+Ecuador,15.0,Cfb,"Temperate, no dry season, warm summer",43735,14.632620354849827
+Ecuador,16.0,Cfc,"Temperate, no dry season, cold summer",316,0.10572557521738984
+Ecuador,29.0,ET,"Polar, tundra",23688,7.925403246042818
+Ecuador,30.0,EF,"Polar, frost",32,0.010706387363786315
+Sudan,0.0,nan,Missing Data,343,0.01527498082834039
+Sudan,3.0,Aw,"Tropical, savannah",123354,5.493381880755394
+Sudan,4.0,BWh,"Arid, desert, hot",1694910,75.48022669318486
+Sudan,5.0,BWk,"Arid, desert, cold",14,0.0006234686052383832
+Sudan,6.0,BSh,"Arid, steppe, hot",425618,18.9542472017393
+Sudan,7.0,BSk,"Arid, steppe, cold",44,0.0019594727593206327
+Sudan,11.0,Cwa,"Temperate, dry winter, hot summer",748,0.03331103690845076
+Sudan,12.0,Cwb,"Temperate, dry winter, warm summer",471,0.02097526521909132
+United Republic of Tanzania,0.0,nan,Missing Data,1040,0.09377589544709011
+United Republic of Tanzania,1.0,Af,"Tropical, rainforest",1664,0.15004143271534418
+United Republic of Tanzania,2.0,Am,"Tropical, monsoon",16974,1.5305308166527956
+United Republic of Tanzania,3.0,Aw,"Tropical, savannah",795427,71.72296075749283
+United Republic of Tanzania,4.0,BWh,"Arid, desert, hot",320,0.028854121676027727
+United Republic of Tanzania,6.0,BSh,"Arid, steppe, hot",163684,14.759243913809131
+United Republic of Tanzania,8.0,Csa,"Temperate, dry summer, hot summer",188,0.016951796484666288
+United Republic of Tanzania,9.0,Csb,"Temperate, dry summer, warm summer",1214,0.10946532410843017
+United Republic of Tanzania,11.0,Cwa,"Temperate, dry winter, hot summer",35387,3.1908150117174787
+United Republic of Tanzania,12.0,Cwb,"Temperate, dry winter, warm summer",87184,7.861305450633754
+United Republic of Tanzania,13.0,Cwc,"Temperate, dry winter, cold summer",38,0.0034264269490282924
+United Republic of Tanzania,14.0,Cfa,"Temperate, no dry season, hot summer",671,0.06050348638942064
+United Republic of Tanzania,15.0,Cfb,"Temperate, no dry season, warm summer",4675,0.4215406838607176
+United Republic of Tanzania,16.0,Cfc,"Temperate, no dry season, cold summer",19,0.0017132134745141462
+United Republic of Tanzania,29.0,ET,"Polar, tundra",527,0.04751913163520816
+United Republic of Tanzania,30.0,EF,"Polar, frost",15,0.0013525369535637996
+Micronesia (Federated States of),0.0,nan,Missing Data,90,14.705882352941178
+Micronesia (Federated States of),1.0,Af,"Tropical, rainforest",522,85.29411764705883
+Antigua & Barbuda,0.0,nan,Missing Data,152,22.995461422087747
+Antigua & Barbuda,2.0,Am,"Tropical, monsoon",29,4.387291981845689
+Antigua & Barbuda,3.0,Aw,"Tropical, savannah",480,72.61724659606656
+Norway,0.0,nan,Missing Data,25648,2.971159549228944
+Norway,7.0,BSk,"Arid, steppe, cold",30,0.0034753113879003564
+Norway,15.0,Cfb,"Temperate, no dry season, warm summer",34874,4.039933644721234
+Norway,16.0,Cfc,"Temperate, no dry season, cold summer",2155,0.24964320136417556
+Norway,18.0,Dsb,"Cold, dry summer, warm summer",44,0.005097123368920522
+Norway,19.0,Dsc,"Cold, dry summer, cold summer",654,0.07576178825622776
+Norway,26.0,Dfb,"Cold, no dry season, warm summer",122175,14.1532056272242
+Norway,27.0,Dfc,"Cold, no dry season, cold summer",582049,67.42671726720047
+Norway,29.0,ET,"Polar, tundra",95603,11.075006487247924
+Bangladesh,0.0,nan,Missing Data,2712,1.5408215442304414
+Bangladesh,2.0,Am,"Tropical, monsoon",39284,22.319186409863075
+Bangladesh,3.0,Aw,"Tropical, savannah",32356,18.38304641781717
+Bangladesh,11.0,Cwa,"Temperate, dry winter, hot summer",101658,57.75694562808932
+Denmark,0.0,nan,Missing Data,3073,3.4743578147612157
+Denmark,15.0,Cfb,"Temperate, no dry season, warm summer",85375,96.52564218523878
+Belgium,0.0,nan,Missing Data,75,0.1337112905813767
+Belgium,15.0,Cfb,"Temperate, no dry season, warm summer",56011,99.85737462337987
+Belgium,26.0,Dfb,"Cold, no dry season, warm summer",5,0.008914086038758446
+Samoa,0.0,nan,Missing Data,280,7.929764939110734
+Samoa,1.0,Af,"Tropical, rainforest",3153,89.29481733220051
+Samoa,2.0,Am,"Tropical, monsoon",7,0.19824412347776835
+Samoa,15.0,Cfb,"Temperate, no dry season, warm summer",91,2.577173605210988
+Anguilla,0.0,nan,Missing Data,45,39.473684210526315
+Anguilla,3.0,Aw,"Tropical, savannah",69,60.526315789473685
+Israel,0.0,nan,Missing Data,29,0.10246987738949152
+Israel,4.0,BWh,"Arid, desert, hot",13315,47.04780749796827
+Israel,5.0,BWk,"Arid, desert, cold",577,2.0387972156460905
+Israel,6.0,BSh,"Arid, steppe, hot",5524,19.51874492067418
+Israel,7.0,BSk,"Arid, steppe, cold",10,0.03533444047913501
+Israel,8.0,Csa,"Temperate, dry summer, hot summer",8846,31.256846047842835
+Libyan Arab Jamahiriya,0.0,nan,Missing Data,1226,0.05778232746837997
+Libyan Arab Jamahiriya,4.0,BWh,"Arid, desert, hot",2072906,97.69766174809922
+Libyan Arab Jamahiriya,5.0,BWk,"Arid, desert, cold",540,0.0254506173188623
+Libyan Arab Jamahiriya,6.0,BSh,"Arid, steppe, hot",34831,1.641611947839431
+Libyan Arab Jamahiriya,7.0,BSk,"Arid, steppe, cold",3311,0.15604998878287607
+Libyan Arab Jamahiriya,8.0,Csa,"Temperate, dry summer, hot summer",8942,0.42144337049123465
+New Zealand,0.0,nan,Missing Data,11620,2.765725003153688
+New Zealand,7.0,BSk,"Arid, steppe, cold",2814,0.6697719585950498
+New Zealand,9.0,Csb,"Temperate, dry summer, warm summer",1,0.00023801419992716764
+New Zealand,15.0,Cfb,"Temperate, no dry season, warm summer",339955,80.91411733624028
+New Zealand,16.0,Cfc,"Temperate, no dry season, cold summer",17972,4.277591201091057
+New Zealand,26.0,Dfb,"Cold, no dry season, warm summer",1346,0.3203671131019677
+New Zealand,27.0,Dfc,"Cold, no dry season, cold summer",9751,2.3208764634898116
+New Zealand,29.0,ET,"Polar, tundra",36681,8.730598867528437
+New Zealand,30.0,EF,"Polar, frost",3,0.000714042599781503
+Madeira Islands,0.0,nan,Missing Data,77,7.277882797731569
+Madeira Islands,8.0,Csa,"Temperate, dry summer, hot summer",53,5.00945179584121
+Madeira Islands,9.0,Csb,"Temperate, dry summer, warm summer",928,87.71266540642722
+Kenya,0.0,nan,Missing Data,310,0.045509396956448976
+Kenya,1.0,Af,"Tropical, rainforest",15053,2.2098482335013756
+Kenya,2.0,Am,"Tropical, monsoon",8425,1.2368279656712342
+Kenya,3.0,Aw,"Tropical, savannah",96465,14.161496701302742
+Kenya,4.0,BWh,"Arid, desert, hot",257205,37.75885304575309
+Kenya,6.0,BSh,"Arid, steppe, hot",224928,33.02044399554889
+Kenya,7.0,BSk,"Arid, steppe, cold",21,0.00308289463253364
+Kenya,8.0,Csa,"Temperate, dry summer, hot summer",15,0.002202067594666886
+Kenya,9.0,Csb,"Temperate, dry summer, warm summer",33593,4.931603780509646
+Kenya,11.0,Cwa,"Temperate, dry winter, hot summer",4,0.0005872180252445029
+Kenya,12.0,Cwb,"Temperate, dry winter, warm summer",5630,0.8265093705316378
+Kenya,15.0,Cfb,"Temperate, no dry season, warm summer",38761,5.690289469125545
+Kenya,16.0,Cfc,"Temperate, no dry season, cold summer",209,0.030682141819025274
+Kenya,29.0,ET,"Polar, tundra",559,0.08206371902791929
+Oman,0.0,nan,Missing Data,1621,0.42143302828618967
+Oman,4.0,BWh,"Arid, desert, hot",382641,99.48029326123128
+Oman,5.0,BWk,"Arid, desert, cold",372,0.09671381031613976
+Oman,6.0,BSh,"Arid, steppe, hot",6,0.0015599001663893512
+Republic of Korea,0.0,nan,Missing Data,2670,1.898383174779233
+Republic of Korea,11.0,Cwa,"Temperate, dry winter, hot summer",19629,13.956315856832047
+Republic of Korea,14.0,Cfa,"Temperate, no dry season, hot summer",18940,13.466433457048192
+Republic of Korea,15.0,Cfb,"Temperate, no dry season, warm summer",34,0.024174167768724313
+Republic of Korea,21.0,Dwa,"Cold, dry winter, hot summer",82446,58.619512819418965
+Republic of Korea,22.0,Dwb,"Cold, dry winter, warm summer",6173,4.389033459892212
+Republic of Korea,25.0,Dfa,"Cold, no dry season, hot summer",8044,5.719323692106423
+Republic of Korea,26.0,Dfb,"Cold, no dry season, warm summer",2710,1.9268233721542027
+Montserrat,0.0,nan,Missing Data,14,10.294117647058822
+Montserrat,1.0,Af,"Tropical, rainforest",29,21.323529411764707
+Montserrat,2.0,Am,"Tropical, monsoon",47,34.55882352941176
+Montserrat,3.0,Aw,"Tropical, savannah",46,33.82352941176471
+Liberia,0.0,nan,Missing Data,202,0.17871677814346887
+Liberia,1.0,Af,"Tropical, rainforest",16955,15.00070778922037
+Liberia,2.0,Am,"Tropical, monsoon",85813,75.92189545953215
+Liberia,3.0,Aw,"Tropical, savannah",10058,8.89867997310401
+Rwanda,2.0,Am,"Tropical, monsoon",8,0.02719423482221769
+Rwanda,3.0,Aw,"Tropical, savannah",20428,69.44047861853288
+Rwanda,9.0,Csb,"Temperate, dry summer, warm summer",8470,28.79189611802298
+Rwanda,10.0,Csc,"Temperate, dry summer, cold summer",1,0.0033992793527772114
+Rwanda,12.0,Cwb,"Temperate, dry winter, warm summer",191,0.6492623563804473
+Rwanda,15.0,Cfb,"Temperate, no dry season, warm summer",284,0.9653953361887281
+Rwanda,16.0,Cfc,"Temperate, no dry season, cold summer",1,0.0033992793527772114
+Rwanda,29.0,ET,"Polar, tundra",35,0.1189747773472024
+Nicaragua,0.0,nan,Missing Data,770,0.501171569903671
+Nicaragua,1.0,Af,"Tropical, rainforest",24588,16.003644884144755
+Nicaragua,2.0,Am,"Tropical, monsoon",71873,46.78013538141109
+Nicaragua,3.0,Aw,"Tropical, savannah",55880,36.37073678729498
+Nicaragua,9.0,Csb,"Temperate, dry summer, warm summer",5,0.003254360843530331
+Nicaragua,12.0,Cwb,"Temperate, dry winter, warm summer",412,0.26815933350689924
+Nicaragua,15.0,Cfb,"Temperate, no dry season, warm summer",112,0.0728976828950794
+Mozambique,0.0,nan,Missing Data,2653,0.27513982558229977
+Mozambique,2.0,Am,"Tropical, monsoon",11,0.0011407983721844319
+Mozambique,3.0,Aw,"Tropical, savannah",664204,68.88389472712622
+Mozambique,4.0,BWh,"Arid, desert, hot",390,0.0404464877410844
+Mozambique,6.0,BSh,"Arid, steppe, hot",202791,21.031240244877555
+Mozambique,11.0,Cwa,"Temperate, dry winter, hot summer",87381,9.062191141804348
+Mozambique,12.0,Cwb,"Temperate, dry winter, warm summer",6807,0.7059467744963116
+Malta,0.0,nan,Missing Data,66,15.602836879432624
+Malta,8.0,Csa,"Temperate, dry summer, hot summer",357,84.39716312056737
+Finland,0.0,nan,Missing Data,3065,0.33969047714043793
+Finland,26.0,Dfb,"Cold, no dry season, warm summer",215323,23.86400411396754
+Finland,27.0,Dfc,"Cold, no dry season, cold summer",683264,75.72537493405682
+Finland,29.0,ET,"Polar, tundra",640,0.07093047483519747
+Turkey,0.0,nan,Missing Data,2744,0.23466008067723038
+Turkey,5.0,BWk,"Arid, desert, cold",151,0.012913145839016685
+Turkey,6.0,BSh,"Arid, steppe, hot",4869,0.4163848151667036
+Turkey,7.0,BSk,"Arid, steppe, cold",281967,24.113119157549786
+Turkey,8.0,Csa,"Temperate, dry summer, hot summer",372662,31.869130825560504
+Turkey,9.0,Csb,"Temperate, dry summer, warm summer",24987,2.136826325029867
+Turkey,14.0,Cfa,"Temperate, no dry season, hot summer",32820,2.8066850757385935
+Turkey,15.0,Cfb,"Temperate, no dry season, warm summer",27599,2.3601980927882216
+Turkey,17.0,Dsa,"Cold, dry summer, hot summer",84081,7.190398776757363
+Turkey,18.0,Dsb,"Cold, dry summer, warm summer",226128,19.337906240299105
+Turkey,19.0,Dsc,"Cold, dry summer, cold summer",5197,0.444434562419667
+Turkey,25.0,Dfa,"Cold, no dry season, hot summer",366,0.03129941309324574
+Turkey,26.0,Dfb,"Cold, no dry season, warm summer",95093,8.132117730262342
+Turkey,27.0,Dfc,"Cold, no dry season, cold summer",9942,0.8502152048443966
+Turkey,29.0,ET,"Polar, tundra",745,0.06371055397395649
+Lithuania,0.0,nan,Missing Data,111,0.08376030968676662
+Lithuania,18.0,Dsb,"Cold, dry summer, warm summer",29,0.02188332415239849
+Lithuania,26.0,Dfb,"Cold, no dry season, warm summer",132381,99.89435636616084
+Russian Federation,0.0,nan,Missing Data,208427,0.49379884160890475
+Russian Federation,5.0,BWk,"Arid, desert, cold",158273,0.37497552648153154
+Russian Federation,7.0,BSk,"Arid, steppe, cold",888683,2.1054404465713477
+Russian Federation,14.0,Cfa,"Temperate, no dry season, hot summer",48022,0.11377224626244596
+Russian Federation,15.0,Cfb,"Temperate, no dry season, warm summer",2531,0.005996367400155152
+Russian Federation,18.0,Dsb,"Cold, dry summer, warm summer",16,3.7906708179566346e-05
+Russian Federation,19.0,Dsc,"Cold, dry summer, cold summer",1856805,4.399085330084981
+Russian Federation,20.0,Dsd,"Cold, dry summer, very cold winter",36231,0.08583737150336677
+Russian Federation,21.0,Dwa,"Cold, dry winter, hot summer",39401,0.09334763806144336
+Russian Federation,22.0,Dwb,"Cold, dry winter, warm summer",1128617,2.6738847040936022
+Russian Federation,23.0,Dwc,"Cold, dry winter, cold summer",4025496,9.537081384375727
+Russian Federation,24.0,Dwd,"Cold, dry winter, very cold winter",664856,1.5751563983396104
+Russian Federation,25.0,Dfa,"Cold, no dry season, hot summer",343614,0.8140797265258446
+Russian Federation,26.0,Dfb,"Cold, no dry season, warm summer",6415362,15.199078450017447
+Russian Federation,27.0,Dfc,"Cold, no dry season, cold summer",21699786,51.410465966314966
+Russian Federation,28.0,Dfd,"Cold, no dry season, very cold winter",331753,0.7859790099184798
+Russian Federation,29.0,ET,"Polar, tundra",4169939,9.879291299974545
+Russian Federation,30.0,EF,"Polar, frost",191076,0.4526913857574263
+Zimbabwe,3.0,Aw,"Tropical, savannah",6381,1.3242408080338521
+Zimbabwe,4.0,BWh,"Arid, desert, hot",9725,2.018216871670461
+Zimbabwe,6.0,BSh,"Arid, steppe, hot",315060,65.38400078030801
+Zimbabwe,11.0,Cwa,"Temperate, dry winter, hot summer",108889,22.59759557216708
+Zimbabwe,12.0,Cwb,"Temperate, dry winter, warm summer",41806,8.675945967820596
+Singapore,0.0,nan,Missing Data,51,7.906976744186046
+Singapore,1.0,Af,"Tropical, rainforest",594,92.09302325581396
+Uganda,1.0,Af,"Tropical, rainforest",28720,10.134980149977943
+Uganda,2.0,Am,"Tropical, monsoon",22750,8.028231142479047
+Uganda,3.0,Aw,"Tropical, savannah",221850,78.28848698720776
+Uganda,6.0,BSh,"Arid, steppe, hot",2129,0.7513012792236435
+Uganda,8.0,Csa,"Temperate, dry summer, hot summer",6,0.00211733568592854
+Uganda,9.0,Csb,"Temperate, dry summer, warm summer",4104,1.4482576091751214
+Uganda,15.0,Cfb,"Temperate, no dry season, warm summer",3268,1.153242170269078
+Uganda,16.0,Cfc,"Temperate, no dry season, cold summer",42,0.014821349801499779
+Uganda,29.0,ET,"Polar, tundra",506,0.17856197617997352
+Uzbekistan,4.0,BWh,"Arid, desert, hot",2488,0.3571326041397525
+Uzbekistan,5.0,BWk,"Arid, desert, cold",506375,72.68610225935176
+Uzbekistan,6.0,BSh,"Arid, steppe, hot",4177,0.599575115551345
+Uzbekistan,7.0,BSk,"Arid, steppe, cold",105308,15.116125513162807
+Uzbekistan,8.0,Csa,"Temperate, dry summer, hot summer",41944,6.020727471076278
+Uzbekistan,17.0,Dsa,"Cold, dry summer, hot summer",7383,1.0597709068986307
+Uzbekistan,18.0,Dsb,"Cold, dry summer, warm summer",19004,2.727872993999943
+Uzbekistan,19.0,Dsc,"Cold, dry summer, cold summer",7725,1.1088622857635
+Uzbekistan,29.0,ET,"Polar, tundra",2256,0.3238308500559814
+Ireland,0.0,nan,Missing Data,2008,1.4897026529764377
+Ireland,15.0,Cfb,"Temperate, no dry season, warm summer",132773,98.50213662531901
+Ireland,16.0,Cfc,"Temperate, no dry season, cold summer",11,0.008160721704552199
+Eritrea,0.0,nan,Missing Data,767,0.5293232667596031
+Eritrea,3.0,Aw,"Tropical, savannah",747,0.5155208347710867
+Eritrea,4.0,BWh,"Arid, desert, hot",101114,69.78095540434225
+Eritrea,6.0,BSh,"Arid, steppe, hot",38620,26.652496169825124
+Eritrea,7.0,BSk,"Arid, steppe, cold",3421,2.3609059916357262
+Eritrea,12.0,Cwb,"Temperate, dry winter, warm summer",83,0.05728009275234296
+Eritrea,15.0,Cfb,"Temperate, no dry season, warm summer",150,0.10351823991387284
+Argentina,0.0,nan,Missing Data,3889,0.09703050235802334
+Argentina,3.0,Aw,"Tropical, savannah",40,0.0009979995099822407
+Argentina,4.0,BWh,"Arid, desert, hot",72812,1.8166585080206725
+Argentina,5.0,BWk,"Arid, desert, cold",1118146,27.897729002215062
+Argentina,6.0,BSh,"Arid, steppe, hot",353150,8.811088173755707
+Argentina,7.0,BSk,"Arid, steppe, cold",614281,15.326303424785017
+Argentina,9.0,Csb,"Temperate, dry summer, warm summer",115384,2.8788293864947714
+Argentina,10.0,Csc,"Temperate, dry summer, cold summer",3966,0.09895165141473915
+Argentina,11.0,Cwa,"Temperate, dry winter, hot summer",333609,8.323540463141633
+Argentina,12.0,Cwb,"Temperate, dry winter, warm summer",82422,2.056427890293906
+Argentina,13.0,Cwc,"Temperate, dry winter, cold summer",1158,0.028892085813985866
+Argentina,14.0,Cfa,"Temperate, no dry season, hot summer",951063,23.729010199055992
+Argentina,15.0,Cfb,"Temperate, no dry season, warm summer",144044,3.593896035397046
+Argentina,16.0,Cfc,"Temperate, no dry season, cold summer",4472,0.11157634521601449
+Argentina,18.0,Dsb,"Cold, dry summer, warm summer",16270,0.40593630068527636
+Argentina,19.0,Dsc,"Cold, dry summer, cold summer",38010,0.9483490343606241
+Argentina,22.0,Dwb,"Cold, dry winter, warm summer",85,0.002120748958712261
+Argentina,23.0,Dwc,"Cold, dry winter, cold summer",241,0.006012947047643
+Argentina,26.0,Dfb,"Cold, no dry season, warm summer",126,0.003143698456444058
+Argentina,27.0,Dfc,"Cold, no dry season, cold summer",4711,0.11753939228815839
+Argentina,29.0,ET,"Polar, tundra",145671,3.634489665465574
+Argentina,30.0,EF,"Polar, frost",4468,0.11147654526501628
+Congo,0.0,nan,Missing Data,112,0.027801152258471285
+Congo,1.0,Af,"Tropical, rainforest",41530,10.308766547270647
+Congo,2.0,Am,"Tropical, monsoon",128930,32.0035942918277
+Congo,3.0,Aw,"Tropical, savannah",232289,57.659838008643185
+Bahamas,0.0,nan,Missing Data,2107,13.565542106618594
+Bahamas,1.0,Af,"Tropical, rainforest",140,0.9013649240278137
+Bahamas,2.0,Am,"Tropical, monsoon",1136,7.3139325263971156
+Bahamas,3.0,Aw,"Tropical, savannah",11767,75.75972186453774
+Bahamas,6.0,BSh,"Arid, steppe, hot",382,2.4594385784187485
+Chile,0.0,nan,Missing Data,35401,3.1641994354655623
+Chile,1.0,Af,"Tropical, rainforest",111,0.00992136203318204
+Chile,2.0,Am,"Tropical, monsoon",1,8.938163993857695e-05
+Chile,4.0,BWh,"Arid, desert, hot",33972,3.0364730719933357
+Chile,5.0,BWk,"Arid, desert, cold",302335,27.02319811082966
+Chile,6.0,BSh,"Arid, steppe, hot",18,0.001608869518894385
+Chile,7.0,BSk,"Arid, steppe, cold",75256,6.726504695217546
+Chile,8.0,Csa,"Temperate, dry summer, hot summer",14549,1.3004134794663558
+Chile,9.0,Csb,"Temperate, dry summer, warm summer",156223,13.963467936124305
+Chile,10.0,Csc,"Temperate, dry summer, cold summer",1918,0.17143398540219054
+Chile,13.0,Cwc,"Temperate, dry winter, cold summer",2,0.0001787632798771539
+Chile,14.0,Cfa,"Temperate, no dry season, hot summer",84,0.007508057754840463
+Chile,15.0,Cfb,"Temperate, no dry season, warm summer",131322,11.7377757200138
+Chile,16.0,Cfc,"Temperate, no dry season, cold summer",58224,5.204156603783703
+Chile,18.0,Dsb,"Cold, dry summer, warm summer",7176,0.6414026481992281
+Chile,19.0,Dsc,"Cold, dry summer, cold summer",19978,1.7856664026928901
+Chile,26.0,Dfb,"Cold, no dry season, warm summer",21,0.0018770144387101157
+Chile,27.0,Dfc,"Cold, no dry season, cold summer",5665,0.5063469902520383
+Chile,29.0,ET,"Polar, tundra",273666,24.460715875430598
+Chile,30.0,EF,"Polar, frost",2876,0.25706159646334725
+Guinea,0.0,nan,Missing Data,766,0.2628400450190782
+Guinea,2.0,Am,"Tropical, monsoon",39007,13.384597436108594
+Guinea,3.0,Aw,"Tropical, savannah",251644,86.34741552060173
+Guinea,9.0,Csb,"Temperate, dry summer, warm summer",15,0.0051469982706085805
+British Indian Ocean Territory,0.0,nan,Missing Data,85,76.57657657657657
+British Indian Ocean Territory,1.0,Af,"Tropical, rainforest",26,23.423423423423422
+Saint Kitts and Nevis,0.0,nan,Missing Data,52,21.487603305785125
+Saint Kitts and Nevis,1.0,Af,"Tropical, rainforest",24,9.917355371900827
+Saint Kitts and Nevis,2.0,Am,"Tropical, monsoon",104,42.97520661157025
+Saint Kitts and Nevis,3.0,Aw,"Tropical, savannah",62,25.6198347107438
+Solomon Islands,0.0,nan,Missing Data,2975,9.313464608834487
+Solomon Islands,1.0,Af,"Tropical, rainforest",28827,90.24512412735184
+Solomon Islands,15.0,Cfb,"Temperate, no dry season, warm summer",141,0.44141126381366813
+Pitcairn Island,0.0,nan,Missing Data,20,30.76923076923077
+Pitcairn Island,1.0,Af,"Tropical, rainforest",45,69.23076923076923
+Saint Lucia,0.0,nan,Missing Data,41,5.380577427821522
+Saint Lucia,1.0,Af,"Tropical, rainforest",704,92.38845144356955
+Saint Lucia,2.0,Am,"Tropical, monsoon",17,2.2309711286089238
+Turkmenistan,4.0,BWh,"Arid, desert, hot",133072,15.970313688874594
+Turkmenistan,5.0,BWk,"Arid, desert, cold",554094,66.49824901649693
+Turkmenistan,6.0,BSh,"Arid, steppe, hot",26546,3.1858538774863603
+Turkmenistan,7.0,BSk,"Arid, steppe, cold",111614,13.395083804782743
+Turkmenistan,8.0,Csa,"Temperate, dry summer, hot summer",7456,0.8948137764837756
+Turkmenistan,17.0,Dsa,"Cold, dry summer, hot summer",77,0.009240968453493925
+Turkmenistan,18.0,Dsb,"Cold, dry summer, warm summer",372,0.04464467876233429
+Turkmenistan,19.0,Dsc,"Cold, dry summer, cold summer",15,0.001800188659771544
+French Southern and Antarctic Territories,0.0,nan,Missing Data,1382,10.398796087283673
+French Southern and Antarctic Territories,29.0,ET,"Polar, tundra",11908,89.60120391271633
+Slovenia,0.0,nan,Missing Data,13,0.03795509620157076
+Slovenia,14.0,Cfa,"Temperate, no dry season, hot summer",5202,15.187877726197776
+Slovenia,15.0,Cfb,"Temperate, no dry season, warm summer",12767,37.27482409272722
+Slovenia,26.0,Dfb,"Cold, no dry season, warm summer",14957,43.66879799129953
+Slovenia,27.0,Dfc,"Cold, no dry season, cold summer",1245,3.634930366996584
+Slovenia,29.0,ET,"Polar, tundra",67,0.1956147265773262
+El Salvador,0.0,nan,Missing Data,89,0.35958143105329077
+El Salvador,2.0,Am,"Tropical, monsoon",18,0.07272433437032848
+El Salvador,3.0,Aw,"Tropical, savannah",24304,98.19401236313684
+El Salvador,12.0,Cwb,"Temperate, dry winter, warm summer",340,1.3736818714395378
+Cook Islands,0.0,nan,Missing Data,59,31.382978723404253
+Cook Islands,1.0,Af,"Tropical, rainforest",129,68.61702127659575
+Kuwait,0.0,nan,Missing Data,122,0.5446185438150082
+Kuwait,4.0,BWh,"Arid, desert, hot",22279,99.455381456185
+Brunei Darussalam,0.0,nan,Missing Data,39,0.5787208784686155
+Brunei Darussalam,1.0,Af,"Tropical, rainforest",6700,99.42127912153138
+Cape Verde,0.0,nan,Missing Data,459,9.36734693877551
+Cape Verde,4.0,BWh,"Arid, desert, hot",3990,81.42857142857143
+Cape Verde,5.0,BWk,"Arid, desert, cold",135,2.7551020408163267
+Cape Verde,6.0,BSh,"Arid, steppe, hot",156,3.183673469387755
+Cape Verde,7.0,BSk,"Arid, steppe, cold",152,3.1020408163265305
+Cape Verde,12.0,Cwb,"Temperate, dry winter, warm summer",8,0.163265306122449
+Italy,0.0,nan,Missing Data,2349,0.4934169068284363
+Italy,4.0,BWh,"Arid, desert, hot",1,0.0002100540258954603
+Italy,5.0,BWk,"Arid, desert, cold",146,0.030667887780737205
+Italy,6.0,BSh,"Arid, steppe, hot",84,0.017644538175218667
+Italy,7.0,BSk,"Arid, steppe, cold",32447,6.81562297823
+Italy,8.0,Csa,"Temperate, dry summer, hot summer",172316,36.19566952620214
+Italy,9.0,Csb,"Temperate, dry summer, warm summer",26757,5.620415570884832
+Italy,14.0,Cfa,"Temperate, no dry season, hot summer",131360,27.592696841627667
+Italy,15.0,Cfb,"Temperate, no dry season, warm summer",43115,9.056479326482773
+Italy,18.0,Dsb,"Cold, dry summer, warm summer",1182,0.2482838586084341
+Italy,19.0,Dsc,"Cold, dry summer, cold summer",93,0.01953502440827781
+Italy,26.0,Dfb,"Cold, no dry season, warm summer",32704,6.869606862885134
+Italy,27.0,Dfc,"Cold, no dry season, cold summer",22552,4.737138391994421
+Italy,29.0,ET,"Polar, tundra",10931,2.2961005570632764
+Italy,30.0,EF,"Polar, frost",31,0.00651167480275927
+Iran (Islamic Republic of),0.0,nan,Missing Data,1546,0.06636124468970538
+Iran (Islamic Republic of),4.0,BWh,"Arid, desert, hot",950635,40.8055121899082
+Iran (Islamic Republic of),5.0,BWk,"Arid, desert, cold",242216,10.396995629858782
+Iran (Islamic Republic of),6.0,BSh,"Arid, steppe, hot",201469,8.64795187994195
+Iran (Islamic Republic of),7.0,BSk,"Arid, steppe, cold",507968,21.804261799831995
+Iran (Islamic Republic of),8.0,Csa,"Temperate, dry summer, hot summer",200472,8.605156174278536
+Iran (Islamic Republic of),9.0,Csb,"Temperate, dry summer, warm summer",622,0.026699026000644725
+Iran (Islamic Republic of),14.0,Cfa,"Temperate, no dry season, hot summer",6734,0.28905344226421475
+Iran (Islamic Republic of),15.0,Cfb,"Temperate, no dry season, warm summer",344,0.01476602081064596
+Iran (Islamic Republic of),17.0,Dsa,"Cold, dry summer, hot summer",146153,6.2735413940067986
+Iran (Islamic Republic of),18.0,Dsb,"Cold, dry summer, warm summer",59066,2.535377282562832
+Iran (Islamic Republic of),19.0,Dsc,"Cold, dry summer, cold summer",3680,0.15796208309063117
+Iran (Islamic Republic of),25.0,Dfa,"Cold, no dry season, hot summer",7,0.00030047135370500497
+Iran (Islamic Republic of),26.0,Dfb,"Cold, no dry season, warm summer",7761,0.3331368823006491
+Iran (Islamic Republic of),27.0,Dfc,"Cold, no dry season, cold summer",631,0.027085346312551162
+Iran (Islamic Republic of),29.0,ET,"Polar, tundra",369,0.01583913278816383
+United Arab Emirates,0.0,nan,Missing Data,406,0.4483958252802474
+United Arab Emirates,4.0,BWh,"Arid, desert, hot",90135,99.54718648185985
+United Arab Emirates,6.0,BSh,"Arid, steppe, hot",4,0.004417692859903915
+British Virgin Islands,0.0,nan,Missing Data,48,32.87671232876712
+British Virgin Islands,2.0,Am,"Tropical, monsoon",65,44.52054794520548
+British Virgin Islands,3.0,Aw,"Tropical, savannah",33,22.602739726027394
+San Marino,14.0,Cfa,"Temperate, no dry season, hot summer",94,100.0
+Zambia,3.0,Aw,"Tropical, savannah",329929,36.47385533124835
+Zambia,6.0,BSh,"Arid, steppe, hot",65163,7.203810016549427
+Zambia,11.0,Cwa,"Temperate, dry winter, hot summer",504176,55.73696912210647
+Zambia,12.0,Cwb,"Temperate, dry winter, warm summer",5295,0.5853655300957479
+Latvia,0.0,nan,Missing Data,439,0.3204098911044288
+Latvia,18.0,Dsb,"Cold, dry summer, warm summer",7,0.005109041543806382
+Latvia,26.0,Dfb,"Cold, no dry season, warm summer",136566,99.67448106735176
+Marshall Islands,0.0,nan,Missing Data,37,90.2439024390244
+Marshall Islands,1.0,Af,"Tropical, rainforest",3,7.317073170731707
+Marshall Islands,3.0,Aw,"Tropical, savannah",1,2.4390243902439024
+Syrian Arab Republic,0.0,nan,Missing Data,40,0.014955339617068528
+Syrian Arab Republic,4.0,BWh,"Arid, desert, hot",119277,44.59570108762707
+Syrian Arab Republic,5.0,BWk,"Arid, desert, cold",14841,5.548804881422851
+Syrian Arab Republic,6.0,BSh,"Arid, steppe, hot",67773,25.339205796689633
+Syrian Arab Republic,7.0,BSk,"Arid, steppe, cold",19593,7.3254992279305915
+Syrian Arab Republic,8.0,Csa,"Temperate, dry summer, hot summer",44233,16.537988432044806
+Syrian Arab Republic,9.0,Csb,"Temperate, dry summer, warm summer",1092,0.40828077154597087
+Syrian Arab Republic,18.0,Dsb,"Cold, dry summer, warm summer",614,0.22956446312200193
+Sri Lanka,0.0,nan,Missing Data,1274,1.634464885946681
+Sri Lanka,1.0,Af,"Tropical, rainforest",22199,28.479973314859002
+Sri Lanka,2.0,Am,"Tropical, monsoon",12294,15.772457855438379
+Sri Lanka,3.0,Aw,"Tropical, savannah",41017,52.62232827855182
+Sri Lanka,15.0,Cfb,"Temperate, no dry season, warm summer",1162,1.4907756652041158
+Mayotte,0.0,nan,Missing Data,122,22.761194029850746
+Mayotte,3.0,Aw,"Tropical, savannah",414,77.23880597014924
+Cameroon,0.0,nan,Missing Data,342,0.06254148859715052
+Cameroon,1.0,Af,"Tropical, rainforest",8338,1.5247688067925176
+Cameroon,2.0,Am,"Tropical, monsoon",107050,19.57621741030691
+Cameroon,3.0,Aw,"Tropical, savannah",392436,71.76471233658293
+Cameroon,4.0,BWh,"Arid, desert, hot",2984,0.5456836315026233
+Cameroon,6.0,BSh,"Arid, steppe, hot",25696,4.699023657872456
+Cameroon,8.0,Csa,"Temperate, dry summer, hot summer",1392,0.2545548307813846
+Cameroon,9.0,Csb,"Temperate, dry summer, warm summer",8433,1.5421414425139484
+Cameroon,11.0,Cwa,"Temperate, dry winter, hot summer",24,0.004388876392782492
+Cameroon,12.0,Cwb,"Temperate, dry winter, warm summer",15,0.002743047745489058
+Cameroon,15.0,Cfb,"Temperate, no dry season, warm summer",98,0.01792124527052851
+Cameroon,29.0,ET,"Polar, tundra",29,0.005303225641278845
+Hong Kong,0.0,nan,Missing Data,175,13.523956723338484
+Hong Kong,11.0,Cwa,"Temperate, dry winter, hot summer",1119,86.47604327666151
+Yemen,0.0,nan,Missing Data,1789,0.32446333872594185
+Yemen,3.0,Aw,"Tropical, savannah",35,0.006347801484297353
+Yemen,4.0,BWh,"Arid, desert, hot",528832,95.9120158441125
+Yemen,5.0,BWk,"Arid, desert, cold",7230,1.311274420899139
+Yemen,6.0,BSh,"Arid, steppe, hot",7862,1.4258975791298796
+Yemen,7.0,BSk,"Arid, steppe, cold",5186,0.9405628142161735
+Yemen,11.0,Cwa,"Temperate, dry winter, hot summer",34,0.006166435727603143
+Yemen,12.0,Cwb,"Temperate, dry winter, warm summer",404,0.07327176570446087
+Western Sahara,0.0,nan,Missing Data,632,0.18288571668340226
+Western Sahara,4.0,BWh,"Arid, desert, hot",344939,99.8171142833166
+Tokelau,0.0,nan,Missing Data,8,88.88888888888889
+Tokelau,1.0,Af,"Tropical, rainforest",1,11.11111111111111
+United States of America,0.0,nan,Missing Data,63848,0.39704820701778104
+United States of America,1.0,Af,"Tropical, rainforest",8980,0.05584345475221893
+United States of America,2.0,Am,"Tropical, monsoon",23001,0.14303511166545518
+United States of America,3.0,Aw,"Tropical, savannah",13308,0.08275776122968033
+United States of America,4.0,BWh,"Arid, desert, hot",377121,2.3451825723398163
+United States of America,5.0,BWk,"Arid, desert, cold",722486,4.492885773954526
+United States of America,6.0,BSh,"Arid, steppe, hot",300086,1.8661290604425798
+United States of America,7.0,BSk,"Arid, steppe, cold",2680524,16.669233931652215
+United States of America,8.0,Csa,"Temperate, dry summer, hot summer",167212,1.0398324895354154
+United States of America,9.0,Csb,"Temperate, dry summer, warm summer",320927,1.9957318934593946
+United States of America,10.0,Csc,"Temperate, dry summer, cold summer",917,0.005702499778149749
+United States of America,13.0,Cwc,"Temperate, dry winter, cold summer",1,6.2186475225188105e-06
+United States of America,14.0,Cfa,"Temperate, no dry season, hot summer",2872937,17.865782557402625
+United States of America,15.0,Cfb,"Temperate, no dry season, warm summer",84275,0.5240765199602728
+United States of America,16.0,Cfc,"Temperate, no dry season, cold summer",13212,0.08216077106751853
+United States of America,17.0,Dsa,"Cold, dry summer, hot summer",10702,0.06655196578599631
+United States of America,18.0,Dsb,"Cold, dry summer, warm summer",362480,2.2541353539626185
+United States of America,19.0,Dsc,"Cold, dry summer, cold summer",590376,3.6713402497545657
+United States of America,21.0,Dwa,"Cold, dry winter, hot summer",63038,0.3920111025245408
+United States of America,22.0,Dwb,"Cold, dry winter, warm summer",36257,0.2254695032239645
+United States of America,23.0,Dwc,"Cold, dry winter, cold summer",94413,0.5871211685435686
+United States of America,25.0,Dfa,"Cold, no dry season, hot summer",1917410,11.923696946152793
+United States of America,26.0,Dfb,"Cold, no dry season, warm summer",1909921,11.87712549485665
+United States of America,27.0,Dfc,"Cold, no dry season, cold summer",2703929,16.814781376916766
+United States of America,29.0,ET,"Polar, tundra",731588,4.549487903704492
+United States of America,30.0,EF,"Polar, frost",11718,0.07287011166887543
+Grenada,0.0,nan,Missing Data,44,10.628019323671497
+Grenada,1.0,Af,"Tropical, rainforest",73,17.632850241545896
+Grenada,2.0,Am,"Tropical, monsoon",295,71.25603864734299
+Grenada,3.0,Aw,"Tropical, savannah",2,0.4830917874396135
+Cayman Islands,0.0,nan,Missing Data,64,24.334600760456272
+Cayman Islands,2.0,Am,"Tropical, monsoon",1,0.38022813688212925
+Cayman Islands,3.0,Aw,"Tropical, savannah",198,75.2851711026616
+Dominican Republic,0.0,nan,Missing Data,777,1.300396646081237
+Dominican Republic,1.0,Af,"Tropical, rainforest",21998,36.816120232297365
+Dominican Republic,2.0,Am,"Tropical, monsoon",8062,13.492661210691034
+Dominican Republic,3.0,Aw,"Tropical, savannah",19088,31.94590885508192
+Dominican Republic,6.0,BSh,"Arid, steppe, hot",3410,5.707017455774799
+Dominican Republic,12.0,Cwb,"Temperate, dry winter, warm summer",109,0.18242372512593932
+Dominican Republic,15.0,Cfb,"Temperate, no dry season, warm summer",6302,10.547103814162107
+Dominican Republic,16.0,Cfc,"Temperate, no dry season, cold summer",1,0.0016736121571187094
+Dominican Republic,29.0,ET,"Polar, tundra",4,0.006694448628474838
+Guantanamo,0.0,nan,Missing Data,26,25.24271844660194
+Guantanamo,3.0,Aw,"Tropical, savannah",70,67.96116504854369
+Guantanamo,6.0,BSh,"Arid, steppe, hot",7,6.796116504854369
+Costa Rica,0.0,nan,Missing Data,561,0.9251014148609874
+Costa Rica,1.0,Af,"Tropical, rainforest",26035,42.93229115134725
+Costa Rica,2.0,Am,"Tropical, monsoon",16383,27.01592955377461
+Costa Rica,3.0,Aw,"Tropical, savannah",10102,16.65842155601728
+Costa Rica,12.0,Cwb,"Temperate, dry winter, warm summer",2045,3.37225025559843
+Costa Rica,13.0,Cwc,"Temperate, dry winter, cold summer",5,0.008245110649384916
+Costa Rica,15.0,Cfb,"Temperate, no dry season, warm summer",5137,8.47102668117806
+Costa Rica,16.0,Cfc,"Temperate, no dry season, cold summer",6,0.009894132779261898
+Costa Rica,29.0,ET,"Polar, tundra",368,0.6068401437947297
+Indonesia,0.0,nan,Missing Data,36019,1.6348478260277541
+Indonesia,1.0,Af,"Tropical, rainforest",1833619,83.22518770407797
+Indonesia,2.0,Am,"Tropical, monsoon",151070,6.856838365252028
+Indonesia,3.0,Aw,"Tropical, savannah",86263,3.9153468451826026
+Indonesia,6.0,BSh,"Arid, steppe, hot",1,4.5388484578354595e-05
+Indonesia,11.0,Cwa,"Temperate, dry winter, hot summer",5,0.00022694242289177297
+Indonesia,12.0,Cwb,"Temperate, dry winter, warm summer",3623,0.1644424796273787
+Indonesia,13.0,Cwc,"Temperate, dry winter, cold summer",3,0.00013616545373506378
+Indonesia,15.0,Cfb,"Temperate, no dry season, warm summer",85641,3.8871152077748663
+Indonesia,16.0,Cfc,"Temperate, no dry season, cold summer",52,0.002360201198074439
+Indonesia,29.0,ET,"Polar, tundra",6906,0.3134528744981169
+Liechtenstein,15.0,Cfb,"Temperate, no dry season, warm summer",141,46.22950819672131
+Liechtenstein,26.0,Dfb,"Cold, no dry season, warm summer",62,20.327868852459016
+Liechtenstein,27.0,Dfc,"Cold, no dry season, cold summer",101,33.114754098360656
+Liechtenstein,29.0,ET,"Polar, tundra",1,0.32786885245901637
+Kiribati,0.0,nan,Missing Data,125,25.252525252525253
+Kiribati,3.0,Aw,"Tropical, savannah",370,74.74747474747475
+Fiji,0.0,nan,Missing Data,1351,6.11505906848323
+Fiji,1.0,Af,"Tropical, rainforest",16996,76.92934413615173
+Fiji,2.0,Am,"Tropical, monsoon",3660,16.566333227719188
+Fiji,14.0,Cfa,"Temperate, no dry season, hot summer",1,0.004526320554021636
+Fiji,15.0,Cfb,"Temperate, no dry season, warm summer",85,0.38473724709183904
+Malawi,3.0,Aw,"Tropical, savannah",70251,49.350895679662806
+Malawi,6.0,BSh,"Arid, steppe, hot",2220,1.5595363540569018
+Malawi,11.0,Cwa,"Temperate, dry winter, hot summer",56512,39.69933263083948
+Malawi,12.0,Cwb,"Temperate, dry winter, warm summer",13367,9.390235335440815
+Glorioso Islands,0.0,nan,Missing Data,3,75.0
+Glorioso Islands,3.0,Aw,"Tropical, savannah",1,25.0
+Paracel Islands,0.0,nan,Missing Data,1,50.0
+Paracel Islands,3.0,Aw,"Tropical, savannah",1,50.0
+Guernsey,0.0,nan,Missing Data,18,13.636363636363635
+Guernsey,9.0,Csb,"Temperate, dry summer, warm summer",12,9.090909090909092
+Guernsey,15.0,Cfb,"Temperate, no dry season, warm summer",102,77.27272727272727
+Palau,0.0,nan,Missing Data,82,18.510158013544018
+Palau,1.0,Af,"Tropical, rainforest",361,81.48984198645599
+Canada,0.0,nan,Missing Data,230016,0.9428204421717039
+Canada,7.0,BSk,"Arid, steppe, cold",204857,0.8396953573750032
+Canada,9.0,Csb,"Temperate, dry summer, warm summer",17213,0.07055495387756303
+Canada,10.0,Csc,"Temperate, dry summer, cold summer",23,9.427548592249751e-05
+Canada,15.0,Cfb,"Temperate, no dry season, warm summer",98032,0.40182671460670766
+Canada,16.0,Cfc,"Temperate, no dry season, cold summer",6843,0.028049006529028284
+Canada,17.0,Dsa,"Cold, dry summer, hot summer",217,0.0008894687150079113
+Canada,18.0,Dsb,"Cold, dry summer, warm summer",31619,0.12960419953841082
+Canada,19.0,Dsc,"Cold, dry summer, cold summer",1419492,5.818404263612949
+Canada,20.0,Dsd,"Cold, dry summer, very cold winter",120,0.0004918721004652045
+Canada,22.0,Dwb,"Cold, dry winter, warm summer",107,0.00043858595624814064
+Canada,23.0,Dwc,"Cold, dry winter, cold summer",41565,0.1703721987986352
+Canada,24.0,Dwd,"Cold, dry winter, very cold winter",9,3.6890407534890336e-05
+Canada,25.0,Dfa,"Cold, no dry season, hot summer",43639,0.17887338826834215
+Canada,26.0,Dfb,"Cold, no dry season, warm summer",4793487,19.64818766035543
+Canada,27.0,Dfc,"Cold, no dry season, cold summer",10648688,43.64827111465514
+Canada,28.0,Dfd,"Cold, no dry season, very cold winter",971,0.003980065079597613
+Canada,29.0,ET,"Polar, tundra",6313796,25.879834170240052
+Canada,30.0,EF,"Polar, frost",545892,2.2375753722262615
+Ethiopia,2.0,Am,"Tropical, monsoon",19637,1.468772228484323
+Ethiopia,3.0,Aw,"Tropical, savannah",400353,29.944867749166583
+Ethiopia,4.0,BWh,"Arid, desert, hot",344694,25.781788181757666
+Ethiopia,6.0,BSh,"Arid, steppe, hot",284325,21.266418692458377
+Ethiopia,7.0,BSk,"Arid, steppe, cold",3720,0.27824172174780676
+Ethiopia,8.0,Csa,"Temperate, dry summer, hot summer",13100,0.9798297190581368
+Ethiopia,9.0,Csb,"Temperate, dry summer, warm summer",139306,10.419554110161283
+Ethiopia,10.0,Csc,"Temperate, dry summer, cold summer",118,0.008825947087699248
+Ethiopia,11.0,Cwa,"Temperate, dry winter, hot summer",7678,0.5742849299945324
+Ethiopia,12.0,Cwb,"Temperate, dry winter, warm summer",103457,7.7381865072211955
+Ethiopia,13.0,Cwc,"Temperate, dry winter, cold summer",575,0.043007793012093794
+Ethiopia,15.0,Cfb,"Temperate, no dry season, warm summer",18393,1.3757258032546802
+Ethiopia,16.0,Cfc,"Temperate, no dry season, cold summer",136,0.010172277999382183
+Ethiopia,29.0,ET,"Polar, tundra",1475,0.11032433859624059
+Greenland,0.0,nan,Missing Data,318037,3.3414253660746516
+Greenland,7.0,BSk,"Arid, steppe, cold",13960,0.14666940673695872
+Greenland,19.0,Dsc,"Cold, dry summer, cold summer",73,0.0007669675280657582
+Greenland,27.0,Dfc,"Cold, no dry season, cold summer",12183,0.12799952595102923
+Greenland,29.0,ET,"Polar, tundra",2164132,22.737246170520624
+Greenland,30.0,EF,"Polar, frost",7009619,73.64589256318867
+Comoros,0.0,nan,Missing Data,188,9.16626036079961
+Comoros,1.0,Af,"Tropical, rainforest",14,0.6825938566552902
+Comoros,2.0,Am,"Tropical, monsoon",1617,78.839590443686
+Comoros,3.0,Aw,"Tropical, savannah",48,2.340321794246709
+Comoros,12.0,Cwb,"Temperate, dry winter, warm summer",6,0.29254022428083865
+Comoros,15.0,Cfb,"Temperate, no dry season, warm summer",178,8.678693320331545
+Abyei,3.0,Aw,"Tropical, savannah",10109,85.90244731475187
+Abyei,6.0,BSh,"Arid, steppe, hot",1659,14.09755268524813
+Guatemala,0.0,nan,Missing Data,89,0.06721952840591532
+Guatemala,1.0,Af,"Tropical, rainforest",30614,23.12200722043474
+Guatemala,2.0,Am,"Tropical, monsoon",43752,33.04481805410794
+Guatemala,3.0,Aw,"Tropical, savannah",27005,20.396217579794868
+Guatemala,11.0,Cwa,"Temperate, dry winter, hot summer",9,0.006797480400598179
+Guatemala,12.0,Cwb,"Temperate, dry winter, warm summer",21257,16.05489343061283
+Guatemala,13.0,Cwc,"Temperate, dry winter, cold summer",125,0.09440945000830803
+Guatemala,14.0,Cfa,"Temperate, no dry season, hot summer",214,0.16162897841422336
+Guatemala,15.0,Cfb,"Temperate, no dry season, warm summer",8955,6.763492998595187
+Guatemala,29.0,ET,"Polar, tundra",382,0.28851527922538933
+Kyrgyzstan,5.0,BWk,"Arid, desert, cold",4101,1.3236162707006678
+Kyrgyzstan,7.0,BSk,"Arid, steppe, cold",82262,26.550432006919856
+Kyrgyzstan,17.0,Dsa,"Cold, dry summer, hot summer",1569,0.5064018358276878
+Kyrgyzstan,18.0,Dsb,"Cold, dry summer, warm summer",23284,7.515016153863533
+Kyrgyzstan,19.0,Dsc,"Cold, dry summer, cold summer",17970,5.799898655081931
+Kyrgyzstan,22.0,Dwb,"Cold, dry winter, warm summer",3,0.0009682635484277014
+Kyrgyzstan,23.0,Dwc,"Cold, dry winter, cold summer",4434,1.4310935245761427
+Kyrgyzstan,25.0,Dfa,"Cold, no dry season, hot summer",1,0.00032275451614256713
+Kyrgyzstan,26.0,Dfb,"Cold, no dry season, warm summer",20193,6.517381944466857
+Kyrgyzstan,27.0,Dfc,"Cold, no dry season, cold summer",37075,11.966123685985677
+Kyrgyzstan,29.0,ET,"Polar, tundra",117745,38.002730503206564
+Kyrgyzstan,30.0,EF,"Polar, frost",1196,0.38601440130651027
+Suriname,0.0,nan,Missing Data,101,0.059380328061614446
+Suriname,1.0,Af,"Tropical, rainforest",76873,45.19548474337115
+Suriname,2.0,Am,"Tropical, monsoon",93116,54.74513492856723
+Poland,0.0,nan,Missing Data,593,0.10065638828583698
+Poland,15.0,Cfb,"Temperate, no dry season, warm summer",58598,9.946480675840599
+Poland,26.0,Dfb,"Cold, no dry season, warm summer",528665,89.73610373209445
+Poland,27.0,Dfc,"Cold, no dry season, cold summer",1248,0.21183671598773113
+Poland,29.0,ET,"Polar, tundra",29,0.004922487791381572
+Ilemi Triangle,3.0,Aw,"Tropical, savannah",138,2.837171052631579
+Ilemi Triangle,4.0,BWh,"Arid, desert, hot",322,6.620065789473683
+Ilemi Triangle,6.0,BSh,"Arid, steppe, hot",4404,90.54276315789474
+Spratly Islands,0.0,nan,Missing Data,6,100.0
+Bermuda,0.0,nan,Missing Data,5,16.129032258064516
+Bermuda,14.0,Cfa,"Temperate, no dry season, hot summer",26,83.87096774193549
+Arunachal Pradesh,7.0,BSk,"Arid, steppe, cold",7,0.007838921364420257
+Arunachal Pradesh,11.0,Cwa,"Temperate, dry winter, hot summer",31998,35.83282940267419
+Arunachal Pradesh,12.0,Cwb,"Temperate, dry winter, warm summer",33542,37.56187148648346
+Arunachal Pradesh,22.0,Dwb,"Cold, dry winter, warm summer",10665,11.94315662164886
+Arunachal Pradesh,23.0,Dwc,"Cold, dry winter, cold summer",5410,6.058366368787655
+Arunachal Pradesh,29.0,ET,"Polar, tundra",7655,8.572420434948151
+Arunachal Pradesh,30.0,EF,"Polar, frost",21,0.02351676409326077
+South Sudan,3.0,Aw,"Tropical, savannah",702606,94.84473458280013
+South Sudan,4.0,BWh,"Arid, desert, hot",306,0.04130691850387961
+South Sudan,6.0,BSh,"Arid, steppe, hot",36698,4.953860442011026
+South Sudan,8.0,Csa,"Temperate, dry summer, hot summer",10,0.0013498992975124054
+South Sudan,9.0,Csb,"Temperate, dry summer, warm summer",1176,0.1587481573874589
+Bulgaria,0.0,nan,Missing Data,108,0.06141109038802711
+Bulgaria,7.0,BSk,"Arid, steppe, cold",5234,2.976163398990129
+Bulgaria,8.0,Csa,"Temperate, dry summer, hot summer",5082,2.8897329754810537
+Bulgaria,9.0,Csb,"Temperate, dry summer, warm summer",300,0.1705863621889642
+Bulgaria,14.0,Cfa,"Temperate, no dry season, hot summer",93048,52.90906609652913
+Bulgaria,15.0,Cfb,"Temperate, no dry season, warm summer",3884,2.20852476913979
+Bulgaria,18.0,Dsb,"Cold, dry summer, warm summer",8,0.004548969658372378
+Bulgaria,25.0,Dfa,"Cold, no dry season, hot summer",19538,11.109721148159942
+Bulgaria,26.0,Dfb,"Cold, no dry season, warm summer",46489,26.434631306009187
+Bulgaria,27.0,Dfc,"Cold, no dry season, cold summer",2031,1.1548696720192877
+Bulgaria,29.0,ET,"Polar, tundra",142,0.08074421143610971
+U.K. of Great Britain and Northern Ireland,0.0,nan,Missing Data,7295,1.5060831721270354
+U.K. of Great Britain and Northern Ireland,9.0,Csb,"Temperate, dry summer, warm summer",1,0.0002064541702710124
+U.K. of Great Britain and Northern Ireland,10.0,Csc,"Temperate, dry summer, cold summer",4,0.0008258166810840496
+U.K. of Great Britain and Northern Ireland,15.0,Cfb,"Temperate, no dry season, warm summer",459275,94.81923905121921
+U.K. of Great Britain and Northern Ireland,16.0,Cfc,"Temperate, no dry season, cold summer",15926,3.287989115736143
+U.K. of Great Britain and Northern Ireland,27.0,Dfc,"Cold, no dry season, cold summer",1415,0.2921326509334825
+U.K. of Great Britain and Northern Ireland,29.0,ET,"Polar, tundra",453,0.09352373913276861
+Bahrain,0.0,nan,Missing Data,66,7.875894988066825
+Bahrain,4.0,BWh,"Arid, desert, hot",772,92.12410501193318
+Niue,0.0,nan,Missing Data,34,10.967741935483872
+Niue,1.0,Af,"Tropical, rainforest",276,89.03225806451613
+Somalia,0.0,nan,Missing Data,1972,0.26298137126381754
+Somalia,3.0,Aw,"Tropical, savannah",8343,1.1126032355243558
+Somalia,4.0,BWh,"Arid, desert, hot",553557,73.821084651463
+Somalia,5.0,BWk,"Arid, desert, cold",102,0.013602484720542287
+Somalia,6.0,BSh,"Arid, steppe, hot",185185,24.695844440917874
+Somalia,7.0,BSk,"Arid, steppe, cold",704,0.0938838161104095
+Barbados,0.0,nan,Missing Data,31,5.794392523364486
+Barbados,1.0,Af,"Tropical, rainforest",6,1.1214953271028036
+Barbados,2.0,Am,"Tropical, monsoon",387,72.33644859813084
+Barbados,3.0,Aw,"Tropical, savannah",111,20.747663551401867
+Puerto Rico,0.0,nan,Missing Data,517,4.593922161009418
+Puerto Rico,1.0,Af,"Tropical, rainforest",8024,71.29909365558912
+Puerto Rico,2.0,Am,"Tropical, monsoon",1092,9.703216634085658
+Puerto Rico,3.0,Aw,"Tropical, savannah",1608,14.288253065576683
+Puerto Rico,15.0,Cfb,"Temperate, no dry season, warm summer",13,0.11551448373911498
+Seychelles,0.0,nan,Missing Data,241,54.035874439461885
+Seychelles,1.0,Af,"Tropical, rainforest",167,37.44394618834081
+Seychelles,3.0,Aw,"Tropical, savannah",38,8.520179372197308
+Senegal,0.0,nan,Missing Data,757,0.3199641572516051
+Senegal,3.0,Aw,"Tropical, savannah",58607,24.771650414854452
+Senegal,4.0,BWh,"Arid, desert, hot",52012,21.984115914095753
+Senegal,6.0,BSh,"Arid, steppe, hot",125213,52.924269513798194
+Greece,0.0,nan,Missing Data,4002,2.0522234985231376
+Greece,6.0,BSh,"Arid, steppe, hot",89,0.045639153265507056
+Greece,7.0,BSk,"Arid, steppe, cold",30022,15.395265835247784
+Greece,8.0,Csa,"Temperate, dry summer, hot summer",112061,57.46482195602232
+Greece,9.0,Csb,"Temperate, dry summer, warm summer",18646,9.561659008861174
+Greece,14.0,Cfa,"Temperate, no dry season, hot summer",13032,6.682802756809977
+Greece,15.0,Cfb,"Temperate, no dry season, warm summer",4220,2.164013784049885
+Greece,18.0,Dsb,"Cold, dry summer, warm summer",5673,2.909111421069905
+Greece,19.0,Dsc,"Cold, dry summer, cold summer",208,0.10666229077781425
+Greece,26.0,Dfb,"Cold, no dry season, warm summer",6801,3.4875492287495895
+Greece,27.0,Dfc,"Cold, no dry season, cold summer",251,0.12871266819822777
+Greece,29.0,ET,"Polar, tundra",3,0.0015383984246800132
+West Bank,4.0,BWh,"Arid, desert, hot",1,0.012402331638348009
+West Bank,6.0,BSh,"Arid, steppe, hot",2803,34.76373558228947
+West Bank,7.0,BSk,"Arid, steppe, cold",29,0.35966761751209225
+West Bank,8.0,Csa,"Temperate, dry summer, hot summer",5230,64.86419446856009
+Egypt,0.0,nan,Missing Data,1440,0.11205798378116322
+Egypt,4.0,BWh,"Arid, desert, hot",1276999,99.37356474344558
+Egypt,5.0,BWk,"Arid, desert, cold",6532,0.5083074653184431
+Egypt,6.0,BSh,"Arid, steppe, hot",78,0.0060698074548130075
+Germany,0.0,nan,Missing Data,1561,0.23630176386172488
+Germany,7.0,BSk,"Arid, steppe, cold",238,0.036028071620173296
+Germany,15.0,Cfb,"Temperate, no dry season, warm summer",529134,80.09948591877638
+Germany,26.0,Dfb,"Cold, no dry season, warm summer",127441,19.291821324985317
+Germany,27.0,Dfc,"Cold, no dry season, cold summer",2118,0.3206195617291052
+Germany,29.0,ET,"Polar, tundra",104,0.015743359027302617
+Côte d'Ivoire,0.0,nan,Missing Data,530,0.13972150603965983
+Côte d'Ivoire,1.0,Af,"Tropical, rainforest",2242,0.5910483330960704
+Côte d'Ivoire,2.0,Am,"Tropical, monsoon",13974,3.6839025007513326
+Côte d'Ivoire,3.0,Aw,"Tropical, savannah",362580,95.58532766011294
+India,0.0,nan,Missing Data,8041,0.2131041141205526
+India,1.0,Af,"Tropical, rainforest",1237,0.03278320969619744
+India,2.0,Am,"Tropical, monsoon",134368,3.561046338285091
+India,3.0,Aw,"Tropical, savannah",1245494,33.00831930263196
+India,4.0,BWh,"Arid, desert, hot",244822,6.4883192920310835
+India,6.0,BSh,"Arid, steppe, hot",864134,22.90144391884711
+India,7.0,BSk,"Arid, steppe, cold",70,0.0018551533376991276
+India,11.0,Cwa,"Temperate, dry winter, hot summer",1151256,30.51080587065924
+India,12.0,Cwb,"Temperate, dry winter, warm summer",49517,1.3123089688978242
+India,14.0,Cfa,"Temperate, no dry season, hot summer",38,0.0010070832404652408
+India,15.0,Cfb,"Temperate, no dry season, warm summer",1004,0.026608199300713203
+India,19.0,Dsc,"Cold, dry summer, cold summer",496,0.013145086507125248
+India,22.0,Dwb,"Cold, dry winter, warm summer",14436,0.38258562261463724
+India,23.0,Dwc,"Cold, dry winter, cold summer",6813,0.18055942413920223
+India,26.0,Dfb,"Cold, no dry season, warm summer",1620,0.04293354867246552
+India,27.0,Dfc,"Cold, no dry season, cold summer",3137,0.08313737171945947
+India,29.0,ET,"Polar, tundra",46347,1.2282970248905922
+India,30.0,EF,"Polar, frost",443,0.011740470408581621
+Venezuela,0.0,nan,Missing Data,2187,0.20348918353105375
+Venezuela,1.0,Af,"Tropical, rainforest",281928,26.231960921144452
+Venezuela,2.0,Am,"Tropical, monsoon",221394,20.599581297976275
+Venezuela,3.0,Aw,"Tropical, savannah",510689,47.517003954408
+Venezuela,4.0,BWh,"Arid, desert, hot",2517,0.2341939986043266
+Venezuela,6.0,BSh,"Arid, steppe, hot",27224,2.533054198650849
+Venezuela,9.0,Csb,"Temperate, dry summer, warm summer",1047,0.09741800418702024
+Venezuela,12.0,Cwb,"Temperate, dry winter, warm summer",3405,0.316817864619679
+Venezuela,13.0,Cwc,"Temperate, dry winter, cold summer",9,0.0008374040474528961
+Venezuela,15.0,Cfb,"Temperate, no dry season, warm summer",21438,1.9946964410327985
+Venezuela,16.0,Cfc,"Temperate, no dry season, cold summer",44,0.004093975343103047
+Venezuela,29.0,ET,"Polar, tundra",2868,0.26685275645498957
+Bhutan,2.0,Am,"Tropical, monsoon",3,0.005730440097799511
+Bhutan,6.0,BSh,"Arid, steppe, hot",8,0.015281173594132029
+Bhutan,7.0,BSk,"Arid, steppe, cold",241,0.4603453545232274
+Bhutan,11.0,Cwa,"Temperate, dry winter, hot summer",11073,21.151054400977994
+Bhutan,12.0,Cwb,"Temperate, dry winter, warm summer",19128,36.53728606356968
+Bhutan,22.0,Dwb,"Cold, dry winter, warm summer",6826,13.038661369193155
+Bhutan,23.0,Dwc,"Cold, dry winter, cold summer",2815,5.377062958435208
+Bhutan,29.0,ET,"Polar, tundra",11857,22.648609413202934
+Bhutan,30.0,EF,"Polar, frost",401,0.7659688264058679
+Sierra Leone,0.0,nan,Missing Data,323,0.3766456382569353
+Sierra Leone,2.0,Am,"Tropical, monsoon",66713,77.79306645521649
+Sierra Leone,3.0,Aw,"Tropical, savannah",18697,21.802301852909967
+Sierra Leone,8.0,Csa,"Temperate, dry summer, hot summer",9,0.010494770106230395
+Sierra Leone,9.0,Csb,"Temperate, dry summer, warm summer",15,0.017491283510383992
+Tonga,0.0,nan,Missing Data,162,27.787307032590054
+Tonga,1.0,Af,"Tropical, rainforest",421,72.21269296740995
+Dominica,0.0,nan,Missing Data,64,6.823027718550106
+Dominica,1.0,Af,"Tropical, rainforest",869,92.64392324093816
+Dominica,2.0,Am,"Tropical, monsoon",5,0.5330490405117271
+Nigeria,0.0,nan,Missing Data,1479,0.1371365626103977
+Nigeria,1.0,Af,"Tropical, rainforest",936,0.0867882505769657
+Nigeria,2.0,Am,"Tropical, monsoon",85908,7.965603665134583
+Nigeria,3.0,Aw,"Tropical, savannah",754675,69.9753450899269
+Nigeria,4.0,BWh,"Arid, desert, hot",31262,2.898690480274681
+Nigeria,6.0,BSh,"Arid, steppe, hot",200511,18.59187917888672
+Nigeria,8.0,Csa,"Temperate, dry summer, hot summer",1987,0.1842395874961868
+Nigeria,9.0,Csb,"Temperate, dry summer, warm summer",1635,0.151601271039892
+Nigeria,11.0,Cwa,"Temperate, dry winter, hot summer",94,0.008715914053669631
+Norfolk Island,0.0,nan,Missing Data,14,21.53846153846154
+Norfolk Island,14.0,Cfa,"Temperate, no dry season, hot summer",49,75.38461538461539
+Norfolk Island,15.0,Cfb,"Temperate, no dry season, warm summer",2,3.076923076923077
+Aksai Chin,5.0,BWk,"Arid, desert, cold",1263,2.9180047593743503
+Aksai Chin,7.0,BSk,"Arid, steppe, cold",3221,7.441720767968948
+Aksai Chin,29.0,ET,"Polar, tundra",35819,82.75535429614398
+Aksai Chin,30.0,EF,"Polar, frost",2980,6.884920176512718
+Monaco,8.0,Csa,"Temperate, dry summer, hot summer",8,61.53846153846154
+Monaco,9.0,Csb,"Temperate, dry summer, warm summer",5,38.46153846153847
+Gambia,0.0,nan,Missing Data,202,1.567836075752872
+Gambia,3.0,Aw,"Tropical, savannah",3443,26.72306737038187
+Gambia,6.0,BSh,"Arid, steppe, hot",9239,71.70909655386527
+Timor-Leste,0.0,nan,Missing Data,405,2.2737480350325625
+Timor-Leste,2.0,Am,"Tropical, monsoon",639,3.587469121940265
+Timor-Leste,3.0,Aw,"Tropical, savannah",15943,89.50707388277566
+Timor-Leste,11.0,Cwa,"Temperate, dry winter, hot summer",3,0.01684257803727824
+Timor-Leste,12.0,Cwb,"Temperate, dry winter, warm summer",822,4.614866382214237
+Honduras,0.0,nan,Missing Data,1077,0.7937385305887815
+Honduras,1.0,Af,"Tropical, rainforest",22958,16.919822827536905
+Honduras,2.0,Am,"Tropical, monsoon",32619,24.039885913904797
+Honduras,3.0,Aw,"Tropical, savannah",65112,47.986911052643215
+Honduras,6.0,BSh,"Arid, steppe, hot",20,0.014739805581964374
+Honduras,8.0,Csa,"Temperate, dry summer, hot summer",45,0.03316456255941984
+Honduras,9.0,Csb,"Temperate, dry summer, warm summer",1892,1.3943856080538297
+Honduras,11.0,Cwa,"Temperate, dry winter, hot summer",72,0.05306330009507174
+Honduras,12.0,Cwb,"Temperate, dry winter, warm summer",8872,6.538577756159396
+Honduras,14.0,Cfa,"Temperate, no dry season, hot summer",41,0.03021660144302697
+Honduras,15.0,Cfb,"Temperate, no dry season, warm summer",2979,2.1954940414335935
+Botswana,4.0,BWh,"Arid, desert, hot",197652,27.074355440979463
+Botswana,6.0,BSh,"Arid, steppe, hot",532381,72.92550757909906
+Botswana,7.0,BSk,"Arid, steppe, cold",1,0.000136979921483109
+Burkina Faso,3.0,Aw,"Tropical, savannah",144214,44.24176606292642
+Burkina Faso,4.0,BWh,"Arid, desert, hot",11055,3.3914371962892065
+Burkina Faso,6.0,BSh,"Arid, steppe, hot",170699,52.36679674078437
+Ukraine,0.0,nan,Missing Data,1894,0.17898300984406554
+Ukraine,7.0,BSk,"Arid, steppe, cold",168353,15.909359375014764
+Ukraine,14.0,Cfa,"Temperate, no dry season, hot summer",5094,0.48138302647606646
+Ukraine,15.0,Cfb,"Temperate, no dry season, warm summer",1517,0.14335650788460794
+Ukraine,25.0,Dfa,"Cold, no dry season, hot summer",238990,22.584556242150594
+Ukraine,26.0,Dfb,"Cold, no dry season, warm summer",636554,60.1543563084896
+Ukraine,27.0,Dfc,"Cold, no dry season, cold summer",5798,0.5479110301351067
+Ukraine,29.0,ET,"Polar, tundra",1,9.450000519750029e-05
+Midway Is.,0.0,nan,Missing Data,5,45.45454545454545
+Midway Is.,3.0,Aw,"Tropical, savannah",6,54.54545454545454
+Reunion,0.0,nan,Missing Data,245,7.404049561801148
+Reunion,1.0,Af,"Tropical, rainforest",574,17.346630401934117
+Reunion,2.0,Am,"Tropical, monsoon",294,8.884859474161379
+Reunion,3.0,Aw,"Tropical, savannah",336,10.15412511332729
+Reunion,8.0,Csa,"Temperate, dry summer, hot summer",28,0.846177092777274
+Reunion,9.0,Csb,"Temperate, dry summer, warm summer",49,1.4808099123602296
+Reunion,14.0,Cfa,"Temperate, no dry season, hot summer",403,12.17890601390148
+Reunion,15.0,Cfb,"Temperate, no dry season, warm summer",1378,41.64400120882441
+Reunion,29.0,ET,"Polar, tundra",2,0.060441220912662436
+Saudi Arabia,0.0,nan,Missing Data,2152,0.08725023505261975
+Saudi Arabia,3.0,Aw,"Tropical, savannah",1,4.0543789522592826e-05
+Saudi Arabia,4.0,BWh,"Arid, desert, hot",2458655,99.68319082867046
+Saudi Arabia,5.0,BWk,"Arid, desert, cold",5661,0.22951839248739797
+Taiwan,0.0,nan,Missing Data,783,1.6966046239518104
+Taiwan,1.0,Af,"Tropical, rainforest",159,0.3445212454768044
+Taiwan,2.0,Am,"Tropical, monsoon",3463,7.50362939047908
+Taiwan,3.0,Aw,"Tropical, savannah",1274,2.7605035643864704
+Taiwan,11.0,Cwa,"Temperate, dry winter, hot summer",14201,30.770730861736475
+Taiwan,12.0,Cwb,"Temperate, dry winter, warm summer",2806,6.080041602565492
+Taiwan,13.0,Cwc,"Temperate, dry winter, cold summer",4,0.00866720114407055
+Taiwan,14.0,Cfa,"Temperate, no dry season, hot summer",14172,30.707893653441964
+Taiwan,15.0,Cfb,"Temperate, no dry season, warm summer",9037,19.581374184741392
+Taiwan,16.0,Cfc,"Temperate, no dry season, cold summer",181,0.3921908517691924
+Taiwan,27.0,Dfc,"Cold, no dry season, cold summer",9,0.01950120257415874
+Taiwan,29.0,ET,"Polar, tundra",62,0.13434161773309353
+Guadeloupe,0.0,nan,Missing Data,125,6.231306081754736
+Guadeloupe,1.0,Af,"Tropical, rainforest",850,42.3728813559322
+Guadeloupe,2.0,Am,"Tropical, monsoon",924,46.061814556331
+Guadeloupe,3.0,Aw,"Tropical, savannah",105,5.234297108673978
+Guadeloupe,15.0,Cfb,"Temperate, no dry season, warm summer",2,0.09970089730807577
+Central African Republic,2.0,Am,"Tropical, monsoon",6592,0.9046048117510801
+Central African Republic,3.0,Aw,"Tropical, savannah",708610,97.24090043309053
+Central African Republic,6.0,BSh,"Arid, steppe, hot",13514,1.8544947551583881
+French Polynesia,0.0,nan,Missing Data,368,14.56848772763262
+French Polynesia,1.0,Af,"Tropical, rainforest",2122,84.00633412509897
+French Polynesia,2.0,Am,"Tropical, monsoon",12,0.4750593824228029
+French Polynesia,3.0,Aw,"Tropical, savannah",7,0.2771179730799683
+French Polynesia,15.0,Cfb,"Temperate, no dry season, warm summer",17,0.6730007917656373
+Azores Islands,0.0,nan,Missing Data,606,15.913865546218487
+Azores Islands,8.0,Csa,"Temperate, dry summer, hot summer",463,12.158613445378151
+Azores Islands,9.0,Csb,"Temperate, dry summer, warm summer",1239,32.536764705882355
+Azores Islands,14.0,Cfa,"Temperate, no dry season, hot summer",138,3.623949579831933
+Azores Islands,15.0,Cfb,"Temperate, no dry season, warm summer",1362,35.766806722689076
+Brazil,0.0,nan,Missing Data,6759,0.0663795881244275
+Brazil,1.0,Af,"Tropical, rainforest",1780295,17.48413209646067
+Brazil,2.0,Am,"Tropical, monsoon",1975102,19.397315766198105
+Brazil,3.0,Aw,"Tropical, savannah",4733588,46.488181948621474
+Brazil,4.0,BWh,"Arid, desert, hot",7748,0.07609247651842939
+Brazil,6.0,BSh,"Arid, steppe, hot",672705,6.606580977843321
+Brazil,8.0,Csa,"Temperate, dry summer, hot summer",4,3.9283673989896435e-05
+Brazil,9.0,Csb,"Temperate, dry summer, warm summer",2,1.9641836994948218e-05
+Brazil,11.0,Cwa,"Temperate, dry winter, hot summer",118883,1.1675402537352144
+Brazil,12.0,Cwb,"Temperate, dry winter, warm summer",51868,0.5093914006269871
+Brazil,14.0,Cfa,"Temperate, no dry season, hot summer",641949,6.304528808535006
+Brazil,15.0,Cfb,"Temperate, no dry season, warm summer",193444,1.8997977578253815
+Haiti,0.0,nan,Missing Data,756,2.2514741795223063
+Haiti,1.0,Af,"Tropical, rainforest",6916,20.59681934600036
+Haiti,2.0,Am,"Tropical, monsoon",5165,15.38209541961999
+Haiti,3.0,Aw,"Tropical, savannah",18322,54.56548930847579
+Haiti,4.0,BWh,"Arid, desert, hot",20,0.05956280898207159
+Haiti,6.0,BSh,"Arid, steppe, hot",978,2.912621359223301
+Haiti,7.0,BSk,"Arid, steppe, cold",1,0.0029781404491035796
+Haiti,9.0,Csb,"Temperate, dry summer, warm summer",7,0.02084698314372506
+Haiti,12.0,Cwb,"Temperate, dry winter, warm summer",378,1.1257370897611532
+Haiti,15.0,Cfb,"Temperate, no dry season, warm summer",1035,3.082375364822205
+Jarvis Island,0.0,nan,Missing Data,9,81.81818181818183
+Jarvis Island,6.0,BSh,"Arid, steppe, hot",2,18.181818181818183
+Montenegro,0.0,nan,Missing Data,60,0.27520410971470505
+Montenegro,8.0,Csa,"Temperate, dry summer, hot summer",1643,7.536005871021008
+Montenegro,9.0,Csb,"Temperate, dry summer, warm summer",62,0.28437758003852853
+Montenegro,14.0,Cfa,"Temperate, no dry season, hot summer",2613,11.985138978075407
+Montenegro,15.0,Cfb,"Temperate, no dry season, warm summer",4407,20.213741858545088
+Montenegro,26.0,Dfb,"Cold, no dry season, warm summer",11528,52.87588294651867
+Montenegro,27.0,Dfc,"Cold, no dry season, cold summer",1489,6.829648656086598
+Svalbard and Jan Mayen Islands,0.0,nan,Missing Data,29775,7.9397247562084505
+Svalbard and Jan Mayen Islands,29.0,ET,"Polar, tundra",327985,87.45963473266261
+Svalbard and Jan Mayen Islands,30.0,EF,"Polar, frost",17253,4.6006405111289475
+Vietnam,0.0,nan,Missing Data,2469,0.6221604009646132
+Vietnam,1.0,Af,"Tropical, rainforest",3037,0.7652900517333051
+Vietnam,2.0,Am,"Tropical, monsoon",96412,24.294746285054796
+Vietnam,3.0,Aw,"Tropical, savannah",107911,27.19236574665548
+Vietnam,11.0,Cwa,"Temperate, dry winter, hot summer",170800,43.039690759317914
+Vietnam,12.0,Cwb,"Temperate, dry winter, warm summer",15237,3.8395536773988708
+Vietnam,14.0,Cfa,"Temperate, no dry season, hot summer",931,0.23460159307333128
+Vietnam,15.0,Cfb,"Temperate, no dry season, warm summer",46,0.011591485801689836
+Croatia,0.0,nan,Missing Data,1127,1.2259194395796849
+Croatia,8.0,Csa,"Temperate, dry summer, hot summer",9302,10.11845840902416
+Croatia,9.0,Csb,"Temperate, dry summer, warm summer",552,0.600450337753315
+Croatia,14.0,Cfa,"Temperate, no dry season, hot summer",55214,60.06026258824553
+Croatia,15.0,Cfb,"Temperate, no dry season, warm summer",16756,18.226713513395918
+Croatia,26.0,Dfb,"Cold, no dry season, warm summer",8922,9.705104915643254
+Croatia,27.0,Dfc,"Cold, no dry season, cold summer",58,0.06309079635813816
+Bosnia & Herzegovina,0.0,nan,Missing Data,1,0.0011974470429045275
+Bosnia & Herzegovina,8.0,Csa,"Temperate, dry summer, hot summer",1402,1.6788207541521476
+Bosnia & Herzegovina,9.0,Csb,"Temperate, dry summer, warm summer",113,0.1353115158482116
+Bosnia & Herzegovina,14.0,Cfa,"Temperate, no dry season, hot summer",22858,27.37124450671169
+Bosnia & Herzegovina,15.0,Cfb,"Temperate, no dry season, warm summer",24209,28.98899546167571
+Bosnia & Herzegovina,26.0,Dfb,"Cold, no dry season, warm summer",33759,40.424614721413946
+Bosnia & Herzegovina,27.0,Dfc,"Cold, no dry season, cold summer",1169,1.3998155931553928
+Jordan,0.0,nan,Missing Data,6,0.004932141947045237
+Jordan,4.0,BWh,"Arid, desert, hot",97870,80.4514553928862
+Jordan,5.0,BWk,"Arid, desert, cold",7476,6.145448866018364
+Jordan,6.0,BSh,"Arid, steppe, hot",7298,5.999128654922688
+Jordan,7.0,BSk,"Arid, steppe, cold",6375,5.240400818735563
+Jordan,8.0,Csa,"Temperate, dry summer, hot summer",2626,2.158634125490132
+Qatar,0.0,nan,Missing Data,236,1.6101521457324144
+Qatar,4.0,BWh,"Arid, desert, hot",14421,98.38984785426759
+Tuvalu,0.0,nan,Missing Data,34,100.0
+Saint Vincent and the Grenadines,0.0,nan,Missing Data,24,5.825242718446602
+Saint Vincent and the Grenadines,1.0,Af,"Tropical, rainforest",388,94.1747572815534
+Gaza Strip,0.0,nan,Missing Data,3,0.5952380952380952
+Gaza Strip,4.0,BWh,"Arid, desert, hot",2,0.3968253968253968
+Gaza Strip,6.0,BSh,"Arid, steppe, hot",489,97.02380952380952
+Gaza Strip,8.0,Csa,"Temperate, dry summer, hot summer",10,1.984126984126984
+Swaziland,3.0,Aw,"Tropical, savannah",3,0.013438451890342233
+Swaziland,6.0,BSh,"Arid, steppe, hot",9257,41.46658304963268
+Swaziland,11.0,Cwa,"Temperate, dry winter, hot summer",6414,28.731410141551695
+Swaziland,12.0,Cwb,"Temperate, dry winter, warm summer",6643,29.757211969181153
+Swaziland,14.0,Cfa,"Temperate, no dry season, hot summer",7,0.031356387744131874
+New Caledonia,0.0,nan,Missing Data,1232,5.213932032671717
+New Caledonia,1.0,Af,"Tropical, rainforest",5461,23.111430868847602
+New Caledonia,2.0,Am,"Tropical, monsoon",5868,24.833890558212364
+New Caledonia,3.0,Aw,"Tropical, savannah",5927,25.083583731854926
+New Caledonia,8.0,Csa,"Temperate, dry summer, hot summer",132,0.5586355749291125
+New Caledonia,9.0,Csb,"Temperate, dry summer, warm summer",17,0.07194549071056752
+New Caledonia,14.0,Cfa,"Temperate, no dry season, hot summer",4197,17.762072030132465
+New Caledonia,15.0,Cfb,"Temperate, no dry season, warm summer",795,3.3645097126412464
+Falkland Islands (Malvinas),0.0,nan,Missing Data,1722,7.994057843182769
+Falkland Islands (Malvinas),5.0,BWk,"Arid, desert, cold",118,0.5477925815885984
+Falkland Islands (Malvinas),7.0,BSk,"Arid, steppe, cold",51,0.23675781068659765
+Falkland Islands (Malvinas),10.0,Csc,"Temperate, dry summer, cold summer",38,0.17640778051158254
+Falkland Islands (Malvinas),16.0,Cfc,"Temperate, no dry season, cold summer",14176,65.80938675084722
+Falkland Islands (Malvinas),29.0,ET,"Polar, tundra",5436,25.23559723318323
+Pakistan,0.0,nan,Missing Data,1932,0.18134476718973805
+Pakistan,4.0,BWh,"Arid, desert, hot",775446,72.78627036139422
+Pakistan,5.0,BWk,"Arid, desert, cold",48959,4.595475391740365
+Pakistan,6.0,BSh,"Arid, steppe, hot",104164,9.777223773059978
+Pakistan,7.0,BSk,"Arid, steppe, cold",28015,2.629592988002335
+Pakistan,8.0,Csa,"Temperate, dry summer, hot summer",7008,0.6577971679429008
+Pakistan,9.0,Csb,"Temperate, dry summer, warm summer",50,0.004693187556670239
+Pakistan,11.0,Cwa,"Temperate, dry winter, hot summer",26714,2.5074762477777757
+Pakistan,12.0,Cwb,"Temperate, dry winter, warm summer",50,0.004693187556670239
+Pakistan,14.0,Cfa,"Temperate, no dry season, hot summer",26826,2.517988987904717
+Pakistan,15.0,Cfb,"Temperate, no dry season, warm summer",1235,0.11592173264975492
+Pakistan,17.0,Dsa,"Cold, dry summer, hot summer",184,0.017270930208546482
+Pakistan,18.0,Dsb,"Cold, dry summer, warm summer",5302,0.4976656085093122
+Pakistan,19.0,Dsc,"Cold, dry summer, cold summer",5296,0.4971024260025118
+Pakistan,21.0,Dwa,"Cold, dry winter, hot summer",2,0.0001877275022668096
+Pakistan,22.0,Dwb,"Cold, dry winter, warm summer",726,0.06814508332285188
+Pakistan,25.0,Dfa,"Cold, no dry season, hot summer",74,0.0069459175838719545
+Pakistan,26.0,Dfb,"Cold, no dry season, warm summer",9760,0.9161102110620307
+Pakistan,27.0,Dfc,"Cold, no dry season, cold summer",6469,0.6072046060819956
+Pakistan,29.0,ET,"Polar, tundra",16765,1.5736257877515314
+Pakistan,30.0,EF,"Polar, frost",397,0.037263909199961705
+South Africa,0.0,nan,Missing Data,1313,0.08060713812122135
+South Africa,1.0,Af,"Tropical, rainforest",1,6.139157511136432e-05
+South Africa,2.0,Am,"Tropical, monsoon",137,0.008410645790256912
+South Africa,3.0,Aw,"Tropical, savannah",8384,0.5147069657336785
+South Africa,4.0,BWh,"Arid, desert, hot",330902,20.314594987500676
+South Africa,5.0,BWk,"Arid, desert, cold",195858,12.024031118161592
+South Africa,6.0,BSh,"Arid, steppe, hot",325923,20.008926335021194
+South Africa,7.0,BSk,"Arid, steppe, cold",350905,21.542610664453296
+South Africa,8.0,Csa,"Temperate, dry summer, hot summer",13090,0.8036157182077589
+South Africa,9.0,Csb,"Temperate, dry summer, warm summer",15268,0.9373265688003105
+South Africa,11.0,Cwa,"Temperate, dry winter, hot summer",37748,2.31740917730378
+South Africa,12.0,Cwb,"Temperate, dry winter, warm summer",213498,13.10697850312606
+South Africa,13.0,Cwc,"Temperate, dry winter, cold summer",21,0.0012892230773386506
+South Africa,14.0,Cfa,"Temperate, no dry season, hot summer",41577,2.5524775184051944
+South Africa,15.0,Cfb,"Temperate, no dry season, warm summer",94128,5.7786661820825005
+South Africa,23.0,Dwc,"Cold, dry winter, cold summer",124,0.007612555313809175
+South Africa,27.0,Dfc,"Cold, no dry season, cold summer",3,0.00018417472533409295
+South Africa,29.0,ET,"Polar, tundra",8,0.0004911326008909145
+Democratic People's Republic of Korea,0.0,nan,Missing Data,1460,0.7847563761455562
+Democratic People's Republic of Korea,11.0,Cwa,"Temperate, dry winter, hot summer",82,0.04407535811228466
+Democratic People's Republic of Korea,21.0,Dwa,"Cold, dry winter, hot summer",92010,49.45577682818673
+Democratic People's Republic of Korea,22.0,Dwb,"Cold, dry winter, warm summer",78944,42.43274476605122
+Democratic People's Republic of Korea,23.0,Dwc,"Cold, dry winter, cold summer",10827,5.8195597839232445
+Democratic People's Republic of Korea,25.0,Dfa,"Cold, no dry season, hot summer",1886,1.0137332365825473
+Democratic People's Republic of Korea,26.0,Dfb,"Cold, no dry season, warm summer",836,0.44935365099841434
+Maldives,0.0,nan,Missing Data,38,92.6829268292683
+Maldives,2.0,Am,"Tropical, monsoon",3,7.317073170731707
+Lebanon,0.0,nan,Missing Data,93,0.649395991900007
+Lebanon,8.0,Csa,"Temperate, dry summer, hot summer",10605,74.05209133440403
+Lebanon,9.0,Csb,"Temperate, dry summer, warm summer",2677,18.692828713078697
+Lebanon,18.0,Dsb,"Cold, dry summer, warm summer",928,6.47999441379792
+Lebanon,19.0,Dsc,"Cold, dry summer, cold summer",18,0.12568954681935618
+Isle of Man,0.0,nan,Missing Data,121,9.869494290375204
+Isle of Man,15.0,Cfb,"Temperate, no dry season, warm summer",1105,90.1305057096248
+Iceland,0.0,nan,Missing Data,6578,2.3336419785935
+Iceland,16.0,Cfc,"Temperate, no dry season, cold summer",19676,6.980349585102723
+Iceland,19.0,Dsc,"Cold, dry summer, cold summer",965,0.3423479035182012
+Iceland,27.0,Dfc,"Cold, no dry season, cold summer",48804,17.313934801349525
+Iceland,29.0,ET,"Polar, tundra",205477,72.89597945203049
+Iceland,30.0,EF,"Polar, frost",377,0.13374627940555633
+Namibia,0.0,nan,Missing Data,885,0.08501130602341125
+Namibia,4.0,BWh,"Arid, desert, hot",616493,59.219067891854095
+Namibia,5.0,BWk,"Arid, desert, cold",34382,3.3026652245163
+Namibia,6.0,BSh,"Arid, steppe, hot",386843,37.15935441357568
+Namibia,7.0,BSk,"Arid, steppe, cold",2431,0.23351693213888447
+Namibia,12.0,Cwb,"Temperate, dry winter, warm summer",4,0.00038423189163123734
+"Moldova, Republic of",7.0,BSk,"Arid, steppe, cold",3016,5.2363838394360815
+"Moldova, Republic of",25.0,Dfa,"Cold, no dry season, hot summer",36352,63.114398319356916
+"Moldova, Republic of",26.0,Dfb,"Cold, no dry season, warm summer",18229,31.649217841207005
+Nauru,0.0,nan,Missing Data,1,5.0
+Nauru,1.0,Af,"Tropical, rainforest",19,95.0
+Thailand,0.0,nan,Missing Data,2190,0.3524787788461229
+Thailand,1.0,Af,"Tropical, rainforest",13683,2.2022680963248855
+Thailand,2.0,Am,"Tropical, monsoon",92176,14.835654757497817
+Thailand,3.0,Aw,"Tropical, savannah",497455,80.06499129264752
+Thailand,11.0,Cwa,"Temperate, dry winter, hot summer",14516,2.3363387916576803
+Thailand,12.0,Cwb,"Temperate, dry winter, warm summer",1292,0.20794638459780398
+Thailand,15.0,Cfb,"Temperate, no dry season, warm summer",2,0.00032189842816997526
+Nepal,5.0,BWk,"Arid, desert, cold",114,0.05848553252616458
+Nepal,7.0,BSk,"Arid, steppe, cold",536,0.27498460907038785
+Nepal,11.0,Cwa,"Temperate, dry winter, hot summer",96371,49.441309255079005
+Nepal,12.0,Cwb,"Temperate, dry winter, warm summer",37147,19.057562076749434
+Nepal,13.0,Cwc,"Temperate, dry winter, cold summer",46,0.023599425405294482
+Nepal,22.0,Dwb,"Cold, dry winter, warm summer",16369,8.397804227375333
+Nepal,23.0,Dwc,"Cold, dry winter, cold summer",7285,3.7374307408167455
+Nepal,27.0,Dfc,"Cold, no dry season, cold summer",2,0.0010260619741432383
+Nepal,29.0,ET,"Polar, tundra",36067,18.503488610712086
+Nepal,30.0,EF,"Polar, frost",983,0.5043094602914017
+American Samoa,0.0,nan,Missing Data,46,23.589743589743588
+American Samoa,1.0,Af,"Tropical, rainforest",149,76.41025641025641
+Andorra,15.0,Cfb,"Temperate, no dry season, warm summer",68,8.542713567839195
+Andorra,26.0,Dfb,"Cold, no dry season, warm summer",194,24.371859296482413
+Andorra,27.0,Dfc,"Cold, no dry season, cold summer",433,54.39698492462311
+Andorra,29.0,ET,"Polar, tundra",101,12.688442211055277
+Australia,0.0,nan,Missing Data,30349,0.30298988489599066
+Australia,1.0,Af,"Tropical, rainforest",2675,0.02670591920975238
+Australia,2.0,Am,"Tropical, monsoon",8508,0.08493979836881244
+Australia,3.0,Aw,"Tropical, savannah",946963,9.454025186027943
+Australia,4.0,BWh,"Arid, desert, hot",4902230,48.941517131822216
+Australia,5.0,BWk,"Arid, desert, cold",264504,2.6406812914603157
+Australia,6.0,BSh,"Arid, steppe, hot",2244323,22.406246249939848
+Australia,7.0,BSk,"Arid, steppe, cold",603869,6.0287389634669015
+Australia,8.0,Csa,"Temperate, dry summer, hot summer",80569,0.8043623195553419
+Australia,9.0,Csb,"Temperate, dry summer, warm summer",119002,1.1880589898313845
+Australia,11.0,Cwa,"Temperate, dry winter, hot summer",65990,0.6588125639818915
+Australia,12.0,Cwb,"Temperate, dry winter, warm summer",707,0.007058349488334555
+Australia,14.0,Cfa,"Temperate, no dry season, hot summer",313296,3.1277972578461988
+Australia,15.0,Cfb,"Temperate, no dry season, warm summer",425685,4.249835221982595
+Australia,16.0,Cfc,"Temperate, no dry season, cold summer",6037,0.06027051748384117
+Australia,26.0,Dfb,"Cold, no dry season, warm summer",669,0.006678975682738073
+Australia,27.0,Dfc,"Cold, no dry season, cold summer",806,0.008046718087125392
+Australia,29.0,ET,"Polar, tundra",324,0.003234660868770008
+Bouvet Island,0.0,nan,Missing Data,24,20.33898305084746
+Bouvet Island,29.0,ET,"Polar, tundra",75,63.559322033898304
+Bouvet Island,30.0,EF,"Polar, frost",19,16.101694915254235
+The former Yugoslav Republic of Macedonia,7.0,BSk,"Arid, steppe, cold",9402,23.73583095604756
+The former Yugoslav Republic of Macedonia,8.0,Csa,"Temperate, dry summer, hot summer",881,2.224129660952766
+The former Yugoslav Republic of Macedonia,9.0,Csb,"Temperate, dry summer, warm summer",467,1.1789654388932367
+The former Yugoslav Republic of Macedonia,14.0,Cfa,"Temperate, no dry season, hot summer",11346,28.643558607457525
+The former Yugoslav Republic of Macedonia,15.0,Cfb,"Temperate, no dry season, warm summer",1552,3.9181035570927265
+The former Yugoslav Republic of Macedonia,18.0,Dsb,"Cold, dry summer, warm summer",513,1.2950947968998512
+The former Yugoslav Republic of Macedonia,25.0,Dfa,"Cold, no dry season, hot summer",24,0.060589230264320525
+The former Yugoslav Republic of Macedonia,26.0,Dfb,"Cold, no dry season, warm summer",14499,36.603468733432635
+The former Yugoslav Republic of Macedonia,27.0,Dfc,"Cold, no dry season, cold summer",925,2.3352099164373534
+The former Yugoslav Republic of Macedonia,29.0,ET,"Polar, tundra",2,0.00504910252202671
+Peru,0.0,nan,Missing Data,3064,0.19978117962179803
+Peru,1.0,Af,"Tropical, rainforest",612756,39.95336700402562
+Peru,2.0,Am,"Tropical, monsoon",165018,10.759624901706877
+Peru,3.0,Aw,"Tropical, savannah",48032,3.1318177609641658
+Peru,4.0,BWh,"Arid, desert, hot",136622,8.908128042522616
+Peru,5.0,BWk,"Arid, desert, cold",54812,3.5738923033387717
+Peru,6.0,BSh,"Arid, steppe, hot",11340,0.739399013352216
+Peru,7.0,BSk,"Arid, steppe, cold",31942,2.082705757010272
+Peru,9.0,Csb,"Temperate, dry summer, warm summer",5969,0.38919512440029785
+Peru,10.0,Csc,"Temperate, dry summer, cold summer",673,0.04388144056314298
+Peru,12.0,Cwb,"Temperate, dry winter, warm summer",79395,5.176771134488465
+Peru,13.0,Cwc,"Temperate, dry winter, cold summer",1780,0.11606086805704978
+Peru,15.0,Cfb,"Temperate, no dry season, warm summer",90357,5.891523514062274
+Peru,16.0,Cfc,"Temperate, no dry season, cold summer",88,0.0057378406679889785
+Peru,29.0,ET,"Polar, tundra",291554,19.010118160396118
+Peru,30.0,EF,"Polar, frost",276,0.017995954822329067
+Benin,0.0,nan,Missing Data,289,0.20958887220880562
+Benin,3.0,Aw,"Tropical, savannah",131738,95.53916556070462
+Benin,6.0,BSh,"Arid, steppe, hot",5862,4.25124556708657
+Paraguay,1.0,Af,"Tropical, rainforest",2631,0.5188765760062478
+Paraguay,2.0,Am,"Tropical, monsoon",40289,7.945655024977468
+Paraguay,3.0,Aw,"Tropical, savannah",180094,35.517505921425006
+Paraguay,6.0,BSh,"Arid, steppe, hot",112916,22.268896790696115
+Paraguay,11.0,Cwa,"Temperate, dry winter, hot summer",2529,0.4987604943822884
+Paraguay,14.0,Cfa,"Temperate, no dry season, hot summer",168598,33.250305192512876
+Christmas Island,0.0,nan,Missing Data,109,71.71052631578947
+Christmas Island,2.0,Am,"Tropical, monsoon",43,28.289473684210524
+United States Virgin Islands,0.0,nan,Missing Data,46,12.466124661246612
+United States Virgin Islands,2.0,Am,"Tropical, monsoon",33,8.94308943089431
+United States Virgin Islands,3.0,Aw,"Tropical, savannah",290,78.59078590785907
+Faroe Islands,0.0,nan,Missing Data,1052,28.790366721401206
+Faroe Islands,15.0,Cfb,"Temperate, no dry season, warm summer",2,0.05473453749315819
+Faroe Islands,16.0,Cfc,"Temperate, no dry season, cold summer",1484,40.61302681992337
+Faroe Islands,29.0,ET,"Polar, tundra",1116,30.541871921182267
+Lesotho,7.0,BSk,"Arid, steppe, cold",1405,3.4331093463653026
+Lesotho,11.0,Cwa,"Temperate, dry winter, hot summer",325,0.794135613927917
+Lesotho,12.0,Cwb,"Temperate, dry winter, warm summer",28684,70.0891875381796
+Lesotho,13.0,Cwc,"Temperate, dry winter, cold summer",392,0.9578497251069028
+Lesotho,15.0,Cfb,"Temperate, no dry season, warm summer",7918,19.347587049480758
+Lesotho,16.0,Cfc,"Temperate, no dry season, cold summer",1,0.002443494196701283
+Lesotho,22.0,Dwb,"Cold, dry winter, warm summer",113,0.27611484422724497
+Lesotho,23.0,Dwc,"Cold, dry winter, cold summer",1734,4.237018937080025
+Lesotho,26.0,Dfb,"Cold, no dry season, warm summer",19,0.046426389737324374
+Lesotho,27.0,Dfc,"Cold, no dry season, cold summer",19,0.046426389737324374
+Lesotho,29.0,ET,"Polar, tundra",315,0.7697006719609041
+Tajikistan,4.0,BWh,"Arid, desert, hot",2131,1.005582374231421
+Tajikistan,5.0,BWk,"Arid, desert, cold",10141,4.785364081220478
+Tajikistan,6.0,BSh,"Arid, steppe, hot",4184,1.9743578853985286
+Tajikistan,7.0,BSk,"Arid, steppe, cold",52464,24.756862356488625
+Tajikistan,8.0,Csa,"Temperate, dry summer, hot summer",8450,3.987410165300566
+Tajikistan,9.0,Csb,"Temperate, dry summer, warm summer",2,0.0009437657195977671
+Tajikistan,17.0,Dsa,"Cold, dry summer, hot summer",4169,1.9672796425015453
+Tajikistan,18.0,Dsb,"Cold, dry summer, warm summer",22902,10.80706125511403
+Tajikistan,19.0,Dsc,"Cold, dry summer, cold summer",21744,10.260620903466924
+Tajikistan,29.0,ET,"Polar, tundra",84031,39.65278859175998
+Tajikistan,30.0,EF,"Polar, frost",1699,0.8017289787983032
+Burundi,3.0,Aw,"Tropical, savannah",25802,80.95761036679112
+Burundi,9.0,Csb,"Temperate, dry summer, warm summer",3888,12.19917793605472
+Burundi,12.0,Cwb,"Temperate, dry winter, warm summer",2181,6.843211697154153
+Philippines,0.0,nan,Missing Data,9788,2.797018951603685
+Philippines,1.0,Af,"Tropical, rainforest",223373,63.831070114075395
+Philippines,2.0,Am,"Tropical, monsoon",92741,26.501668838442722
+Philippines,3.0,Aw,"Tropical, savannah",15785,4.510721715474475
+Philippines,11.0,Cwa,"Temperate, dry winter, hot summer",130,0.0371488009510093
+Philippines,12.0,Cwb,"Temperate, dry winter, warm summer",4714,1.3470726744850605
+Philippines,14.0,Cfa,"Temperate, no dry season, hot summer",199,0.05686624145577578
+Philippines,15.0,Cfb,"Temperate, no dry season, warm summer",3214,0.9184326635118761
+Madagascar,0.0,nan,Missing Data,5239,0.7123529811679924
+Madagascar,1.0,Af,"Tropical, rainforest",64525,8.773540009517983
+Madagascar,2.0,Am,"Tropical, monsoon",29319,3.9865388537630024
+Madagascar,3.0,Aw,"Tropical, savannah",310653,42.23985315113196
+Madagascar,4.0,BWh,"Arid, desert, hot",606,0.0823985315113196
+Madagascar,6.0,BSh,"Arid, steppe, hot",81844,11.128424773947923
+Madagascar,11.0,Cwa,"Temperate, dry winter, hot summer",102886,13.989530219593446
+Madagascar,12.0,Cwb,"Temperate, dry winter, warm summer",101304,13.774423822149704
+Madagascar,14.0,Cfa,"Temperate, no dry season, hot summer",28138,3.825956897137807
+Madagascar,15.0,Cfb,"Temperate, no dry season, warm summer",10936,1.4869807600788634
+Azerbaijan,5.0,BWk,"Arid, desert, cold",85766,34.212247893796274
+Azerbaijan,7.0,BSk,"Arid, steppe, cold",103463,41.271620500382944
+Azerbaijan,8.0,Csa,"Temperate, dry summer, hot summer",22687,9.049894689813632
+Azerbaijan,9.0,Csb,"Temperate, dry summer, warm summer",261,0.104113479703855
+Azerbaijan,14.0,Cfa,"Temperate, no dry season, hot summer",6461,2.5773072504467707
+Azerbaijan,15.0,Cfb,"Temperate, no dry season, warm summer",396,0.15796527955067655
+Azerbaijan,17.0,Dsa,"Cold, dry summer, hot summer",209,0.08337056420730152
+Azerbaijan,18.0,Dsb,"Cold, dry summer, warm summer",2765,1.1029646413071228
+Azerbaijan,19.0,Dsc,"Cold, dry summer, cold summer",92,0.036699004340056164
+Azerbaijan,25.0,Dfa,"Cold, no dry season, hot summer",1801,0.7184229001787082
+Azerbaijan,26.0,Dfb,"Cold, no dry season, warm summer",20403,8.13880201684963
+Azerbaijan,27.0,Dfc,"Cold, no dry season, cold summer",5460,2.178006127138116
+Azerbaijan,29.0,ET,"Polar, tundra",924,0.3685856522849119
+Mauritania,0.0,nan,Missing Data,496,0.03830742947880271
+Mauritania,4.0,BWh,"Arid, desert, hot",1284000,99.16681340883603
+Mauritania,6.0,BSh,"Arid, steppe, hot",10292,0.7948791616851562
+Hungary,7.0,BSk,"Arid, steppe, cold",19,0.011958560441082062
+Hungary,14.0,Cfa,"Temperate, no dry season, hot summer",65913,41.48550496594957
+Hungary,15.0,Cfb,"Temperate, no dry season, warm summer",10373,6.5287446029128535
+Hungary,25.0,Dfa,"Cold, no dry season, hot summer",50572,31.829911506652735
+Hungary,26.0,Dfb,"Cold, no dry season, warm summer",32005,20.143880364043756
+Djibouti,0.0,nan,Missing Data,181,0.7065896314803248
+Djibouti,4.0,BWh,"Arid, desert, hot",25435,99.29341036851967
+Vanuatu,0.0,nan,Missing Data,1733,11.591973244147157
+Vanuatu,1.0,Af,"Tropical, rainforest",13076,87.46488294314382
+Vanuatu,14.0,Cfa,"Temperate, no dry season, hot summer",12,0.0802675585284281
+Vanuatu,15.0,Cfb,"Temperate, no dry season, warm summer",129,0.862876254180602
+Cambodia,0.0,nan,Missing Data,339,0.15559166138848346
+Cambodia,2.0,Am,"Tropical, monsoon",40026,18.370831382700413
+Cambodia,3.0,Aw,"Tropical, savannah",177469,81.45338216800228
+Cambodia,12.0,Cwb,"Temperate, dry winter, warm summer",44,0.02019478790882971
+Georgia,0.0,nan,Missing Data,262,0.2386700068321567
+Georgia,7.0,BSk,"Arid, steppe, cold",5603,5.104076520154862
+Georgia,14.0,Cfa,"Temperate, no dry season, hot summer",32245,29.373718970621727
+Georgia,15.0,Cfb,"Temperate, no dry season, warm summer",3267,2.976087451605557
+Georgia,25.0,Dfa,"Cold, no dry season, hot summer",2960,2.69642450466864
+Georgia,26.0,Dfb,"Cold, no dry season, warm summer",47029,42.84126622637213
+Georgia,27.0,Dfc,"Cold, no dry season, cold summer",14110,12.853564108403553
+Georgia,29.0,ET,"Polar, tundra",4292,3.909815531769529
+Georgia,30.0,EF,"Polar, frost",7,0.006376679571851514
+Hala'ib Triangle,0.0,nan,Missing Data,121,0.661274456224724
+Hala'ib Triangle,4.0,BWh,"Arid, desert, hot",18177,99.33872554377527
+Myanmar,0.0,nan,Missing Data,3085,0.3685742925105943
+Myanmar,2.0,Am,"Tropical, monsoon",186132,22.237753715909864
+Myanmar,3.0,Aw,"Tropical, savannah",258015,30.825833413977627
+Myanmar,6.0,BSh,"Arid, steppe, hot",7590,0.9068002853015917
+Myanmar,11.0,Cwa,"Temperate, dry winter, hot summer",314557,37.581077383875204
+Myanmar,12.0,Cwb,"Temperate, dry winter, warm summer",61987,7.405774609353065
+Myanmar,22.0,Dwb,"Cold, dry winter, warm summer",2559,0.3057314795898252
+Myanmar,23.0,Dwc,"Cold, dry winter, cold summer",1081,0.1291503436641661
+Myanmar,29.0,ET,"Polar, tundra",2003,0.2393044758180617
+Mauritius,0.0,nan,Missing Data,236,8.838951310861423
+Mauritius,1.0,Af,"Tropical, rainforest",947,35.46816479400749
+Mauritius,2.0,Am,"Tropical, monsoon",1244,46.59176029962547
+Mauritius,3.0,Aw,"Tropical, savannah",179,6.704119850187267
+Mauritius,14.0,Cfa,"Temperate, no dry season, hot summer",64,2.397003745318352
+Cocos (Keeling) Islands,0.0,nan,Missing Data,15,71.42857142857143
+Cocos (Keeling) Islands,1.0,Af,"Tropical, rainforest",6,28.57142857142857
+Afghanistan,4.0,BWh,"Arid, desert, hot",241979,26.855164851751063
+Afghanistan,5.0,BWk,"Arid, desert, cold",9942,1.1033769416193515
+Afghanistan,6.0,BSh,"Arid, steppe, hot",53438,5.930623315857464
+Afghanistan,7.0,BSk,"Arid, steppe, cold",203895,22.62854973963767
+Afghanistan,8.0,Csa,"Temperate, dry summer, hot summer",42723,4.741457762704039
+Afghanistan,9.0,Csb,"Temperate, dry summer, warm summer",69,0.007657715647931529
+Afghanistan,11.0,Cwa,"Temperate, dry winter, hot summer",16,0.0017757021792304995
+Afghanistan,14.0,Cfa,"Temperate, no dry season, hot summer",3793,0.4209523978638303
+Afghanistan,15.0,Cfb,"Temperate, no dry season, warm summer",3,0.0003329441586057186
+Afghanistan,17.0,Dsa,"Cold, dry summer, hot summer",63368,7.032668480842393
+Afghanistan,18.0,Dsb,"Cold, dry summer, warm summer",170211,18.89025272681266
+Afghanistan,19.0,Dsc,"Cold, dry summer, cold summer",69280,7.6887904360680634
+Afghanistan,25.0,Dfa,"Cold, no dry season, hot summer",83,0.009211455054758217
+Afghanistan,26.0,Dfb,"Cold, no dry season, warm summer",703,0.07801991449994007
+Afghanistan,27.0,Dfc,"Cold, no dry season, cold summer",43,0.004772199606681967
+Afghanistan,29.0,ET,"Polar, tundra",41309,4.5845300826145445
+Afghanistan,30.0,EF,"Polar, frost",197,0.021863333081775526
+Sao Tome and Principe,0.0,nan,Missing Data,186,13.890963405526513
+Sao Tome and Principe,1.0,Af,"Tropical, rainforest",32,2.389843166542196
+Sao Tome and Principe,2.0,Am,"Tropical, monsoon",550,41.07542942494399
+Sao Tome and Principe,3.0,Aw,"Tropical, savannah",535,39.955190440627334
+Sao Tome and Principe,12.0,Cwb,"Temperate, dry winter, warm summer",36,2.68857356235997
+Colombia,0.0,nan,Missing Data,2207,0.16552851748099648
+Colombia,1.0,Af,"Tropical, rainforest",706295,52.973250681576985
+Colombia,2.0,Am,"Tropical, monsoon",349010,26.176306246507735
+Colombia,3.0,Aw,"Tropical, savannah",105844,7.938468692459715
+Colombia,4.0,BWh,"Arid, desert, hot",7380,0.5535117621249451
+Colombia,6.0,BSh,"Arid, steppe, hot",4816,0.36120767566310785
+Colombia,9.0,Csb,"Temperate, dry summer, warm summer",17721,1.3291032434439232
+Colombia,10.0,Csc,"Temperate, dry summer, cold summer",192,0.014400306006502639
+Colombia,12.0,Cwb,"Temperate, dry winter, warm summer",4582,0.34365730271768274
+Colombia,13.0,Cwc,"Temperate, dry winter, cold summer",34,0.002550054188651509
+Colombia,15.0,Cfb,"Temperate, no dry season, warm summer",112942,8.47083000513761
+Colombia,16.0,Cfc,"Temperate, no dry season, cold summer",471,0.03532575067220178
+Colombia,29.0,ET,"Polar, tundra",21800,1.6350347444883204
+Colombia,30.0,EF,"Polar, frost",11,0.0008250175316225469
+Czech Republic,7.0,BSk,"Arid, steppe, cold",111,0.07843968624125504
+Czech Republic,15.0,Cfb,"Temperate, no dry season, warm summer",7038,4.973500105999576
+Czech Republic,26.0,Dfb,"Cold, no dry season, warm summer",132818,93.85767790262173
+Czech Republic,27.0,Dfc,"Cold, no dry season, cold summer",1543,1.0903823051374462
+Japan,0.0,nan,Missing Data,11904,2.178831074699642
+Japan,1.0,Af,"Tropical, rainforest",659,0.12061909259299933
+Japan,14.0,Cfa,"Temperate, no dry season, hot summer",282249,51.66102923411452
+Japan,15.0,Cfb,"Temperate, no dry season, warm summer",525,0.09609260032067474
+Japan,22.0,Dwb,"Cold, dry winter, warm summer",20,0.0036606704884066562
+Japan,25.0,Dfa,"Cold, no dry season, hot summer",74672,13.667479335515093
+Japan,26.0,Dfb,"Cold, no dry season, warm summer",173165,31.695000256246935
+Japan,27.0,Dfc,"Cold, no dry season, cold summer",3146,0.5758234678263671
+Japan,29.0,ET,"Polar, tundra",8,0.0014642681953626628
+Lao People's Democratic Republic,1.0,Af,"Tropical, rainforest",32,0.011290345343438191
+Lao People's Democratic Republic,2.0,Am,"Tropical, monsoon",59823,21.106947796265718
+Lao People's Democratic Republic,3.0,Aw,"Tropical, savannah",99115,34.97008058483989
+Lao People's Democratic Republic,11.0,Cwa,"Temperate, dry winter, hot summer",109692,38.7018925441382
+Lao People's Democratic Republic,12.0,Cwb,"Temperate, dry winter, warm summer",14140,4.988921348631751
+Lao People's Democratic Republic,14.0,Cfa,"Temperate, no dry season, hot summer",595,0.2099298587295539
+Lao People's Democratic Republic,15.0,Cfb,"Temperate, no dry season, warm summer",31,0.01093752205145575
+Tunisia,0.0,nan,Missing Data,628,0.28710277639356857
+Tunisia,4.0,BWh,"Arid, desert, hot",160432,73.34470162798247
+Tunisia,5.0,BWk,"Arid, desert, cold",4354,1.9905182936585946
+Tunisia,6.0,BSh,"Arid, steppe, hot",14480,6.619821977991835
+Tunisia,7.0,BSk,"Arid, steppe, cold",19036,8.70268861692352
+Tunisia,8.0,Csa,"Temperate, dry summer, hot summer",19807,9.055166707050018
+Guyana,0.0,nan,Missing Data,453,0.183153885652137
+Guyana,1.0,Af,"Tropical, rainforest",190841,77.15953795085977
+Guyana,2.0,Am,"Tropical, monsoon",46090,18.6347960037682
+Guyana,3.0,Aw,"Tropical, savannah",9445,3.8187383001863884
+Guyana,15.0,Cfb,"Temperate, no dry season, warm summer",504,0.2037738595335034
+Gabon,0.0,nan,Missing Data,660,0.21634449911331535
+Gabon,2.0,Am,"Tropical, monsoon",42462,13.918818365681208
+Gabon,3.0,Aw,"Tropical, savannah",261947,85.86483713520548
+South Georgia & the South Sandwich Islands,0.0,nan,Missing Data,478,6.432512447853586
+South Georgia & the South Sandwich Islands,29.0,ET,"Polar, tundra",5557,74.781321491051
+South Georgia & the South Sandwich Islands,30.0,EF,"Polar, frost",1396,18.78616606109541
+Mongolia,5.0,BWk,"Arid, desert, cold",1060912,39.943524734283876
+Mongolia,7.0,BSk,"Arid, steppe, cold",912145,34.34242083109001
+Mongolia,22.0,Dwb,"Cold, dry winter, warm summer",140877,5.304044005527047
+Mongolia,23.0,Dwc,"Cold, dry winter, cold summer",482651,18.171895648769027
+Mongolia,26.0,Dfb,"Cold, no dry season, warm summer",5,0.0001882508857204173
+Mongolia,27.0,Dfc,"Cold, no dry season, cold summer",2253,0.08482584910562005
+Mongolia,29.0,ET,"Polar, tundra",57187,2.153100680338701
+Spain,0.0,nan,Missing Data,2873,0.37211507202039185
+Spain,3.0,Aw,"Tropical, savannah",1,0.00012952143126362402
+Spain,4.0,BWh,"Arid, desert, hot",11818,1.5306842746735088
+Spain,5.0,BWk,"Arid, desert, cold",5246,0.6794694284089716
+Spain,6.0,BSh,"Arid, steppe, hot",7445,0.9642870557576809
+Spain,7.0,BSk,"Arid, steppe, cold",331723,42.965237743063156
+Spain,8.0,Csa,"Temperate, dry summer, hot summer",158843,20.573572706207834
+Spain,9.0,Csb,"Temperate, dry summer, warm summer",136320,17.65636150985723
+Spain,14.0,Cfa,"Temperate, no dry season, hot summer",20074,2.600013211185989
+Spain,15.0,Cfb,"Temperate, no dry season, warm summer",81138,10.509109889867926
+Spain,18.0,Dsb,"Cold, dry summer, warm summer",4505,0.5834940478426263
+Spain,19.0,Dsc,"Cold, dry summer, cold summer",371,0.04805245099880452
+Spain,26.0,Dfb,"Cold, no dry season, warm summer",6425,0.8321751958687845
+Spain,27.0,Dfc,"Cold, no dry season, cold summer",4531,0.5868616050554806
+Spain,29.0,ET,"Polar, tundra",760,0.09843628776035426
+Cyprus,0.0,nan,Missing Data,265,2.0379912327924328
+Cyprus,6.0,BSh,"Arid, steppe, hot",2726,20.964392832423286
+Cyprus,8.0,Csa,"Temperate, dry summer, hot summer",9941,76.45158809505499
+Cyprus,9.0,Csb,"Temperate, dry summer, warm summer",70,0.5383373067753595
+Cyprus,18.0,Dsb,"Cold, dry summer, warm summer",1,0.007690532953933707
+Macao,11.0,Cwa,"Temperate, dry winter, hot summer",9,100.0
+Jammu-Kashmir,4.0,BWh,"Arid, desert, hot",14,0.005322000007602858
+Jammu-Kashmir,5.0,BWk,"Arid, desert, cold",13652,5.189710293128157
+Jammu-Kashmir,7.0,BSk,"Arid, steppe, cold",28761,10.933288729904698
+Jammu-Kashmir,11.0,Cwa,"Temperate, dry winter, hot summer",20836,7.920656582743796
+Jammu-Kashmir,12.0,Cwb,"Temperate, dry winter, warm summer",1970,0.7488814296412593
+Jammu-Kashmir,14.0,Cfa,"Temperate, no dry season, hot summer",8961,3.406460147723515
+Jammu-Kashmir,15.0,Cfb,"Temperate, no dry season, warm summer",2645,1.005477858579254
+Jammu-Kashmir,18.0,Dsb,"Cold, dry summer, warm summer",974,0.3702591433860845
+Jammu-Kashmir,19.0,Dsc,"Cold, dry summer, cold summer",6099,2.3184912890264164
+Jammu-Kashmir,22.0,Dwb,"Cold, dry winter, warm summer",2162,0.8218688583169554
+Jammu-Kashmir,23.0,Dwc,"Cold, dry winter, cold summer",531,0.20185585743122264
+Jammu-Kashmir,25.0,Dfa,"Cold, no dry season, hot summer",57,0.021668142888097347
+Jammu-Kashmir,26.0,Dfb,"Cold, no dry season, warm summer",20064,7.627186296610267
+Jammu-Kashmir,27.0,Dfc,"Cold, no dry season, cold summer",15706,5.970523722815034
+Jammu-Kashmir,29.0,ET,"Polar, tundra",133253,50.65517621522167
+Jammu-Kashmir,30.0,EF,"Polar, frost",7374,2.803173432575962
+Heard Island and McDonald Islands,0.0,nan,Missing Data,115,14.935064935064934
+Heard Island and McDonald Islands,29.0,ET,"Polar, tundra",475,61.68831168831169
+Heard Island and McDonald Islands,30.0,EF,"Polar, frost",180,23.376623376623375
+French Guiana,0.0,nan,Missing Data,339,0.3457666534071785
+French Guiana,1.0,Af,"Tropical, rainforest",52060,53.09915037279561
+French Guiana,2.0,Am,"Tropical, monsoon",45644,46.55508297379721
+Democratic Republic of the Congo,0.0,nan,Missing Data,21,0.0007683059877378363
+Democratic Republic of the Congo,1.0,Af,"Tropical, rainforest",652192,23.861096131176907
+Democratic Republic of the Congo,2.0,Am,"Tropical, monsoon",464834,17.006416452577593
+Democratic Republic of the Congo,3.0,Aw,"Tropical, savannah",1523298,55.731379738527174
+Democratic Republic of the Congo,8.0,Csa,"Temperate, dry summer, hot summer",668,0.024439447609946416
+Democratic Republic of the Congo,9.0,Csb,"Temperate, dry summer, warm summer",26747,0.9785657263820909
+Democratic Republic of the Congo,11.0,Cwa,"Temperate, dry winter, hot summer",41407,1.514916477821933
+Democratic Republic of the Congo,12.0,Cwb,"Temperate, dry winter, warm summer",7910,0.2893952553812517
+Democratic Republic of the Congo,15.0,Cfb,"Temperate, no dry season, warm summer",16051,0.5872418766276197
+Democratic Republic of the Congo,16.0,Cfc,"Temperate, no dry season, cold summer",6,0.0002195159964965247
+Democratic Republic of the Congo,29.0,ET,"Polar, tundra",152,0.005561071911245293
+Guinea-Bissau,0.0,nan,Missing Data,932,2.344300231411611
+Guinea-Bissau,2.0,Am,"Tropical, monsoon",683,1.717979676023745
+Guinea-Bissau,3.0,Aw,"Tropical, savannah",38141,95.93772009256465
+Papua New Guinea,0.0,nan,Missing Data,9305,1.7093812976601408
+Papua New Guinea,1.0,Af,"Tropical, rainforest",417502,76.69748635526106
+Papua New Guinea,2.0,Am,"Tropical, monsoon",26711,4.906962261343366
+Papua New Guinea,3.0,Aw,"Tropical, savannah",2041,0.37494328087311635
+Papua New Guinea,15.0,Cfb,"Temperate, no dry season, warm summer",85642,15.732921342741513
+Papua New Guinea,16.0,Cfc,"Temperate, no dry season, cold summer",14,0.0025718794376401906
+Papua New Guinea,29.0,ET,"Polar, tundra",3134,0.5757335826831683
+Turks and Caicos Islands,0.0,nan,Missing Data,52,13.756613756613756
+Turks and Caicos Islands,2.0,Am,"Tropical, monsoon",6,1.5873015873015872
+Turks and Caicos Islands,3.0,Aw,"Tropical, savannah",290,76.71957671957672
+Turks and Caicos Islands,6.0,BSh,"Arid, steppe, hot",30,7.936507936507936
+Bolivia,1.0,Af,"Tropical, rainforest",49273,3.7114062111614103
+Bolivia,2.0,Am,"Tropical, monsoon",193689,14.589299568397346
+Bolivia,3.0,Aw,"Tropical, savannah",571150,43.020917287456406
+Bolivia,4.0,BWh,"Arid, desert, hot",161,0.012127055385241147
+Bolivia,5.0,BWk,"Arid, desert, cold",99796,7.516966579040532
+Bolivia,6.0,BSh,"Arid, steppe, hot",58429,4.401066578287298
+Bolivia,7.0,BSk,"Arid, steppe, cold",126027,9.49277272693035
+Bolivia,11.0,Cwa,"Temperate, dry winter, hot summer",33481,2.5219002568525393
+Bolivia,12.0,Cwb,"Temperate, dry winter, warm summer",105583,7.952862662980845
+Bolivia,13.0,Cwc,"Temperate, dry winter, cold summer",4716,0.3552248024645792
+Bolivia,14.0,Cfa,"Temperate, no dry season, hot summer",1286,0.09686579643118085
+Bolivia,15.0,Cfb,"Temperate, no dry season, warm summer",31371,2.362968040313044
+Bolivia,16.0,Cfc,"Temperate, no dry season, cold summer",12,0.0009038799044900234
+Bolivia,29.0,ET,"Polar, tundra",52572,3.9598978615707927
+Bolivia,30.0,EF,"Polar, frost",64,0.0048206928239467916
+Cuba,0.0,nan,Missing Data,2917,2.1252258553360144
+Cuba,1.0,Af,"Tropical, rainforest",5507,4.0122107594567815
+Cuba,2.0,Am,"Tropical, monsoon",19565,14.25438596491228
+Cuba,3.0,Aw,"Tropical, savannah",108820,79.28250859707407
+Cuba,6.0,BSh,"Arid, steppe, hot",72,0.05245672320335724
+Cuba,11.0,Cwa,"Temperate, dry winter, hot summer",60,0.04371393600279769
+Cuba,12.0,Cwb,"Temperate, dry winter, warm summer",6,0.004371393600279769
+Cuba,14.0,Cfa,"Temperate, no dry season, hot summer",46,0.0335140176021449
+Cuba,15.0,Cfb,"Temperate, no dry season, warm summer",263,0.1916127528122632
+China,0.0,nan,Missing Data,7820,0.057291689942942016
+China,2.0,Am,"Tropical, monsoon",16936,0.12407826865392149
+China,3.0,Aw,"Tropical, savannah",17535,0.1284667241879141
+China,5.0,BWk,"Arid, desert, cold",2807504,20.568625151095844
+China,6.0,BSh,"Arid, steppe, hot",3156,0.023121812462906014
+China,7.0,BSk,"Arid, steppe, cold",1572216,11.518530894543803
+China,11.0,Cwa,"Temperate, dry winter, hot summer",1096907,8.036273112563006
+China,12.0,Cwb,"Temperate, dry winter, warm summer",401102,2.9385948106769733
+China,13.0,Cwc,"Temperate, dry winter, cold summer",1,7.326303061757291e-06
+China,14.0,Cfa,"Temperate, no dry season, hot summer",1769049,12.960589105098673
+China,15.0,Cfb,"Temperate, no dry season, warm summer",7995,0.05857379297874955
+China,19.0,Dsc,"Cold, dry summer, cold summer",187,0.0013700186725486136
+China,21.0,Dwa,"Cold, dry winter, hot summer",1378056,10.096055892073005
+China,22.0,Dwb,"Cold, dry winter, warm summer",1429493,10.472898942660617
+China,23.0,Dwc,"Cold, dry winter, cold summer",753076,5.517263004535934
+China,25.0,Dfa,"Cold, no dry season, hot summer",1202,0.008806216280232265
+China,26.0,Dfb,"Cold, no dry season, warm summer",12248,0.0897325599004033
+China,27.0,Dfc,"Cold, no dry season, cold summer",43826,0.321082557984575
+China,29.0,ET,"Polar, tundra",2301693,16.862900473125325
+China,30.0,EF,"Polar, frost",29447,0.21573764625956696
+Iraq,0.0,nan,Missing Data,16,0.0026363920974146883
+Iraq,4.0,BWh,"Arid, desert, hot",471927,77.76153833478884
+Iraq,6.0,BSh,"Arid, steppe, hot",61478,10.130007085303761
+Iraq,8.0,Csa,"Temperate, dry summer, hot summer",66007,10.876270823378206
+Iraq,17.0,Dsa,"Cold, dry summer, hot summer",6212,1.0235792318212527
+Iraq,18.0,Dsb,"Cold, dry summer, warm summer",1232,0.20300219150093096
+Iraq,19.0,Dsc,"Cold, dry summer, cold summer",18,0.002965941109591524
+Martinique,0.0,nan,Missing Data,139,10.007199424046076
+Martinique,1.0,Af,"Tropical, rainforest",1250,89.99280057595392
+Malaysia,0.0,nan,Missing Data,3601,0.9346740450803078
+Malaysia,1.0,Af,"Tropical, rainforest",374566,97.22219338226896
+Malaysia,2.0,Am,"Tropical, monsoon",4135,1.0732788604296228
+Malaysia,15.0,Cfb,"Temperate, no dry season, warm summer",2924,0.7589522098902581
+Malaysia,29.0,ET,"Polar, tundra",42,0.010901502330845022
+Sweden,0.0,nan,Missing Data,5136,0.4539295931868138
+Sweden,7.0,BSk,"Arid, steppe, cold",6,0.0005302915808257171
+Sweden,15.0,Cfb,"Temperate, no dry season, warm summer",34746,3.070918544561727
+Sweden,26.0,Dfb,"Cold, no dry season, warm summer",360652,31.87511986799275
+Sweden,27.0,Dfc,"Cold, no dry season, cold summer",705571,62.35972682913034
+Sweden,29.0,ET,"Polar, tundra",25342,2.239774873547553
+Ghana,0.0,nan,Missing Data,1100,0.3895377249580362
+Ghana,2.0,Am,"Tropical, monsoon",10088,3.572415063069699
+Ghana,3.0,Aw,"Tropical, savannah",271147,96.0199868265424
+Ghana,6.0,BSh,"Arid, steppe, hot",51,0.018060385429872587
+Angola,0.0,nan,Missing Data,1448,0.09685145808933746
+Angola,3.0,Aw,"Tropical, savannah",777196,51.98381617486236
+Angola,4.0,BWh,"Arid, desert, hot",55349,3.7020934763720565
+Angola,5.0,BWk,"Arid, desert, cold",7,0.000468204562586576
+Angola,6.0,BSh,"Arid, steppe, hot",262549,17.56094852893471
+Angola,7.0,BSk,"Arid, steppe, cold",2,0.00013377273216759315
+Angola,8.0,Csa,"Temperate, dry summer, hot summer",449,0.030031978371624662
+Angola,9.0,Csb,"Temperate, dry summer, warm summer",10942,0.7318706176889022
+Angola,11.0,Cwa,"Temperate, dry winter, hot summer",312758,20.91924608363605
+Angola,12.0,Cwb,"Temperate, dry winter, warm summer",74373,4.974539704750203
+Netherlands,0.0,nan,Missing Data,360,0.5341563297525076
+Netherlands,15.0,Cfb,"Temperate, no dry season, warm summer",67036,99.4658436702475
+Chad,3.0,Aw,"Tropical, savannah",240215,15.546789548964151
+Chad,4.0,BWh,"Arid, desert, hot",1041968,67.43649319465928
+Chad,5.0,BWk,"Arid, desert, cold",9601,0.6213797075936341
+Chad,6.0,BSh,"Arid, steppe, hot",253326,16.395337548782933
+Trinidad and Tobago,0.0,nan,Missing Data,161,2.6999832299178266
+Trinidad and Tobago,1.0,Af,"Tropical, rainforest",2151,36.0724467549891
+Trinidad and Tobago,2.0,Am,"Tropical, monsoon",3534,59.265470400804965
+Trinidad and Tobago,3.0,Aw,"Tropical, savannah",117,1.9620996142881102
+Slovakia,7.0,BSk,"Arid, steppe, cold",1,0.0011614401858304297
+Slovakia,14.0,Cfa,"Temperate, no dry season, hot summer",5757,6.686411149825784
+Slovakia,15.0,Cfb,"Temperate, no dry season, warm summer",1475,1.713124274099884
+Slovakia,25.0,Dfa,"Cold, no dry season, hot summer",1393,1.6178861788617886
+Slovakia,26.0,Dfb,"Cold, no dry season, warm summer",73237,85.06039488966319
+Slovakia,27.0,Dfc,"Cold, no dry season, cold summer",4070,4.72706155632985
+Slovakia,29.0,ET,"Polar, tundra",167,0.19396051103368175
+Mali,3.0,Aw,"Tropical, savannah",182231,11.864468575900474
+Mali,4.0,BWh,"Arid, desert, hot",1090648,71.00854916764273
+Mali,6.0,BSh,"Arid, steppe, hot",263060,17.1269822564568
+Armenia,5.0,BWk,"Arid, desert, cold",7,0.01546551190844417
+Armenia,7.0,BSk,"Arid, steppe, cold",9596,21.20100746763289
+Armenia,14.0,Cfa,"Temperate, no dry season, hot summer",47,0.10383986567098229
+Armenia,15.0,Cfb,"Temperate, no dry season, warm summer",23,0.05081525341345942
+Armenia,18.0,Dsb,"Cold, dry summer, warm summer",1535,3.3913658256373997
+Armenia,19.0,Dsc,"Cold, dry summer, cold summer",222,0.49047766338208654
+Armenia,25.0,Dfa,"Cold, no dry season, hot summer",389,0.8594405903406831
+Armenia,26.0,Dfb,"Cold, no dry season, warm summer",27456,60.66015642260616
+Armenia,27.0,Dfc,"Cold, no dry season, cold summer",5870,12.968936414652468
+Armenia,29.0,ET,"Polar, tundra",117,0.258494984755424
+Albania,0.0,nan,Missing Data,136,0.3072821347070652
+Albania,8.0,Csa,"Temperate, dry summer, hot summer",19548,44.16728800921847
+Albania,9.0,Csb,"Temperate, dry summer, warm summer",4880,11.026006010077047
+Albania,14.0,Cfa,"Temperate, no dry season, hot summer",5661,12.79061885718159
+Albania,15.0,Cfb,"Temperate, no dry season, warm summer",4228,9.552859305451998
+Albania,18.0,Dsb,"Cold, dry summer, warm summer",1283,2.8988454325673874
+Albania,19.0,Dsc,"Cold, dry summer, cold summer",30,0.06778282383244086
+Albania,26.0,Dfb,"Cold, no dry season, warm summer",7580,17.12646015499672
+Albania,27.0,Dfc,"Cold, no dry season, cold summer",913,2.0628572719672835
+Gibraltar,0.0,nan,Missing Data,6,40.0
+Gibraltar,8.0,Csa,"Temperate, dry summer, hot summer",9,60.0
